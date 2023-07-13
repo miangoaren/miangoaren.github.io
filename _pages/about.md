@@ -10,7 +10,7 @@ redirect_from:
 1. Sobre mi: una breve descripción de mis intereses
 2. Blog: Publicaciones sobre distintos temas
 3. Recursos: Distintos materiales para aprender
-4. CV: mi Curriculum vitae por si tienes interés en mi trayectoria académica
+4. CV: mi Curriculum vitae por si tienes interés en mi perfil profesional
 
 ![robot](/images/gama_robot_learning2.png)
 
