@@ -1,10 +1,16 @@
 ---
-permalink: /_talks/
-title: "Markdown"
+permalink: /
+title: "Contenido por pestañas:"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /_talks/readme.md
+  - /about/
+  - /about.html
 ---
+1. Sobre mi: una breve descripción de mis intereses
+2. Blog: Publicaciones sobre distintos temas
+3. Recursos: Distintos materiales para aprender
+4. CV: mi Curriculum vitae por si tienes interés en mi perfil profesional
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
