@@ -6,10 +6,23 @@ permalink: /talks/readme
 date: 07.06.2023
 ---
 
-Hola mundo 
+jajajaja 
+asda
 
-1. aaa
-2. sdf
-3. sdfasa
-4.  hola
-5.  se que 
+asas
+
+asdasda
+
+👤👤👤👤👤👤: asi 
+🎓🎓🎓🎓🎓🎓🎓: es como es la coas 
+
+🔬🔬🔬🔬🔬🔬: siuuuuuu
+🤔🤔🤔🤔🤔🤔🤔: el comandantae 
+
+Perro sasas
+---
+  1. aaa
+  2. sdf
+  3. sdfasa
+  4.  hola
+  5.  se que 
