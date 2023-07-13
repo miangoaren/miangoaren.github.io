@@ -10,7 +10,9 @@ location: "CDMX, México"
 
 En este seminario se abarcan los principales procedimientos y herramientas para reconstruir genomas a partir de metagenomas.. Una colaboración con la consultora bioinformática WinterGenomics
 
+https://www.youtube.com/live/ckIbT93Qhjc?feature=share&t=275
 
-[![Texto Alternativo](images/gama_metagenomics.png)](https://www.youtube.com/live/ckIbT93Qhjc?feature=share&t=275)
+![webinar](images/gama_metagenomics.png)
+
 
 
