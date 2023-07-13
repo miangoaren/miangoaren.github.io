@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "En las pestañas de esta página encontraras:"
+title: "Contenido por pestañas:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
