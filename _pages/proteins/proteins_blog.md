@@ -1,19 +1,20 @@
 ---
-layout: archive
-title: "Proteins"
-permalink: /proteins/proteins_blog
-author_profile: true
-
+title: 'Blog Post protein 1'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
 
-{% include base_path %}
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Soy una pagina de proteinas 
+Headings are cool
+======
 
-<figure>
-  <a href="/images/gama_tem1.png">
-  <img src="/images/gama_tem1.png" alt = "TEM-1 protein structure" />
-    </a>
-  <figcaption> The crystal of a protein, <a href = "https://www.rcsb.org/structure/1ZG4">PDB link</a></figcaption>
-</figure>
+You can have many headings
+======
 
+Aren't headings cool?
+------
