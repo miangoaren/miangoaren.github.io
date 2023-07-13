@@ -4,8 +4,8 @@ title: "Contenido por pestañas:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /_talks/
+  - /talks.html
 ---
 1. Sobre mi: una breve descripción de mis intereses
 2. Blog: Publicaciones sobre distintos temas
