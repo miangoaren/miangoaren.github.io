@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
+permalink: /_talks/
 title: "Markdown"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /_talks/readme.md
 ---
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
