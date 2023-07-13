@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 1. Sobre mi: una breve descripción de mis intereses
-2. Blog: Publicaciones sobre distintos temas
-3. Recursos: Distintos materiales para aprender
-4. CV: mi Curriculum vitae por si tienes interés en mi perfil profesional
+2. Enseñanza: Distintos materiales para aprender
+3. Blog: Publicaciones sobre distintos temas
+4. CV: mi perfil profesional
 
 ![robot](/images/gama_robot_learning2.png)
 
