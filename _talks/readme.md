@@ -1,9 +1,10 @@
 ---
-title: "Hola mundo"
-collection: talks
-
-permalink: /talks/readme
-date: 07.06.2023
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 jajajajaasdasdasdasdasdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.
