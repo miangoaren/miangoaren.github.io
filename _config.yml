@@ -205,7 +205,7 @@ defaults:
   # _blog_protein
   - scope:
       path: ""
-      type: posts
+      type: blog_protein
     values:
       layout: single
       author_profile: true
