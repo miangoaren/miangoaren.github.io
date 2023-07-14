@@ -9,34 +9,7 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-<style>
-  .circle-image {
-    width: 360px; /* Ajusta el tamaño según tus necesidades */
-    height: 360px;
-    border-radius: 90%;
-    overflow: hidden;
-  }
-</style>
 
-<div class="circle-image">
-  <img src="https://github.com/miangoar/miangoar.github.io/raw/master/images/gama_gama.png" alt="Gama Gama">
-</div>
-
-<div>
-  <p><span>👋</span> Me llamo Miguel Ángel (AKA GAMA), nací en México y actualmente vivo en el Estado de México. </p>
-</div>
-<div>
-  <p><span>🎓</span>  Soy biólogo (Facultad de Ciencias/UNAM) y estoy terminando la maestría en Ciencias Bioquímicas orientada a bioinformática en el Instituto de Biotecnología (UNAM) </p>
-</div>
-<div>
-  <p><span>🔬</span> Tengo experiencia en estas áreas: Ecología microbiana, Mineria genomica, Filogenómica, Ciencia de proteínas, Computación de alto rendimiento, Ciencia y visualización de datos, Machine learning y Deep learning </p>
-</div>
-<div>
-  <p><span>🧠</span> Mi principal motivación es aprender cosas nuevas y usar dichos conocimientos para solucionar problemas. Además de compartir lo aprendido y conocer nuevas personas con intereses similares . </p>
-</div>
-<div>
-  <p><span>👻</span> Mis otros intereses son: gastronomía, economía/mercados, cultura musical (géneros favoritos: Death metal y piano neoclásico) y el terror (con tintes de horror cósmico) </p>
-</div>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
