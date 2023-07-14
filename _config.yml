@@ -202,10 +202,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _blog_protein
+  # _posts_protein
   - scope:
       path: ""
-      type: blog_protein
+      type: posts_protein
     values:
       layout: single
       author_profile: true
