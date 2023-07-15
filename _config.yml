@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Ángel"
+title                    : "Miguel Ángel \n GAMA"
 title_separator          : "-"
 name                     : &name "Miguel Ángel González Arias"
 description              : &description "personal description"
@@ -317,16 +317,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _borrame
-  - scope:
-      path: ""
-      type: borrame
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-
 
   
 
