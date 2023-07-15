@@ -28,3 +28,18 @@ main:
 
   #- title: "Resources"
   #  url: /resources/
+
+  #- title: "Proteins"
+  #  url: /proteins/
+
+  #- title: "Microbiome"
+  #  url: /microbiome/
+
+  #- title: "AI"
+  #  url: /ai/
+
+  #- title: "Academia"
+  #  url: /academia/
+
+  #- title: "Other"
+  #  url: /other/
