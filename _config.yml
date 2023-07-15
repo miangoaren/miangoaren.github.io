@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GAMA"
+title                    : "Miguel Ángel"
 title_separator          : "-"
 name                     : &name "Miguel Ángel González Arias"
 description              : &description "personal description"
@@ -187,7 +187,19 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  resources:
+  microbiome:
+    output: true
+    permalink: /:collection/:path/
+  bioinformatics:
+    output: true
+    permalink: /:collection/:path/
+  artificial_intelligence:
+    output: true
+    permalink: /:collection/:path/
+  academia:
+    output: true
+    permalink: /:collection/:path/
+  other:
     output: true
     permalink: /:collection/:path/
 
@@ -257,15 +269,61 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _resources
+  # _proteins
   - scope:
       path: ""
-      type: resources
+      type: proteins
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
+    # _microbiome
+  - scope:
+      path: ""
+      type: microbiome
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _bioinformatics
+  - scope:
+      path: ""
+      type: bioinformatics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _artificial_intelligence
+  - scope:
+      path: ""
+      type: artificial_intelligence
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _academia
+  - scope:
+      path: ""
+      type: academia
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  
 
 # Sass/SCSS
 sass:
