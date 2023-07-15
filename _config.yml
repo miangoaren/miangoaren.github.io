@@ -202,6 +202,9 @@ collections:
   other:
     output: true
     permalink: /:collection/:path/
+  borrame:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -269,6 +272,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  xxxxxx
   # _proteins
   - scope:
       path: ""
@@ -276,27 +280,29 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
-      comment: true
-    # _microbiome
+      related: true
+  # _microbiome
   - scope:
       path: ""
       type: microbiome
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
-      comment: true
-    # _bioinformatics
+      related: true
+  # _bioinformatics
   - scope:
       path: ""
       type: bioinformatics
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-    # _ai
+  # _ai
   - scope:
       path: ""
       type: ai
@@ -304,8 +310,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
-    # _academia
+      comments: true
+  # _academia
   - scope:
       path: ""
       type: academia
@@ -313,8 +319,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
-    # _other
+      comments: true
+  # _other
   - scope:
       path: ""
       type: other
@@ -323,6 +329,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _borrame
+  - scope:
+      path: ""
+      type: borrame
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+
   
 
 # Sass/SCSS
