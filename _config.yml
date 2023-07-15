@@ -219,17 +219,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _posts_protein
-  - scope:
-      path: ""
-      type: posts_protein
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -272,7 +261,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  xxxxxx
   # _proteins
   - scope:
       path: ""
@@ -334,9 +322,10 @@ defaults:
       path: ""
       type: borrame
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
   
