@@ -58,6 +58,10 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% elsif post.resource and post.paperurl %}
+      <p>Resource: {{ post.resource }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.resource %}
+      <p>Resource: {{ post.resource }} </p>
     {% endif %}
 
   </article>
