@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  proteins:
+  resources:
     output: true
     permalink: /:collection/:path/
 
@@ -257,10 +257,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _proteins
+  # _resources
   - scope:
       path: ""
-      type: proteins
+      type: resources
     values:
       layout: single
       author_profile: true
