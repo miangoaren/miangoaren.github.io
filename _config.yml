@@ -193,7 +193,7 @@ collections:
   bioinformatics:
     output: true
     permalink: /:collection/:path/
-  artificial_intelligence:
+  ai:
     output: true
     permalink: /:collection/:path/
   academia:
@@ -296,10 +296,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-    # _artificial_intelligence
+    # _ai
   - scope:
       path: ""
-      type: artificial_intelligence
+      type: ai
     values:
       layout: single
       author_profile: true
