@@ -62,10 +62,7 @@
       <p>Resource: {{ post.resource }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.resource %}
       <p>Resource: {{ post.resource }} </p>
-    {% elsif post.proteins and post.paperurl %}
-      <p>Proteins: {{ post.proteins }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.proteins %}
-      <p>Proteins: {{ post.proteins }} </p>
+    
     {% endif %}
   </article>
 </div>
