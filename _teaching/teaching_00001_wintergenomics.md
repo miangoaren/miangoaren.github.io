@@ -3,9 +3,11 @@ title: "Reconstrucción y análisis de genomas a partir de metagenomas"
 collection: teaching
 type: "Seminario web"
 permalink: /teaching/teaching_00001_wintergenomics
-date: 11-06-2020
+venue: "YouTube"
+date: 2020-16-11
 location: "CDMX, México"
 ---
+
 
 Tuve la oportunidad de colaborar con la empresa WinterGenomics para dar <a href="https://www.youtube.com/live/ckIbT93Qhjc?feature=share&t=275">este seminario</a>. 
 
