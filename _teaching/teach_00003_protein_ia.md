@@ -1,10 +1,13 @@
 ---
-title: "Ciencia de proteínas basada en inteligencia artificial "
-collection: teaching
+title: 'Ciencia de proteínas basada en inteligencia artificial'
+date: 2012-08-14
 permalink: /teaching/teach_00002_protein_ia
-date: 2023-07-13
-location: "EDOMEX, Mexico"
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
+
 
 <a href="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA
 ">Este repositorio </a> contiene una serie de videos en YouTube para introducirse a la ciencia de proteínas basada en IA.  
