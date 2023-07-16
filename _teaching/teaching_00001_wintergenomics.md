@@ -2,7 +2,7 @@
 title: "Reconstrucción y análisis de genomas a partir de metagenomas"
 collection: teaching
 type: "Seminario web"
-permalink: /teaching/teach_00001_metagenomics
+permalink: /teaching/teaching_00001_wintergenomics
 date: 11-06-2020
 location: "CDMX, México"
 ---
