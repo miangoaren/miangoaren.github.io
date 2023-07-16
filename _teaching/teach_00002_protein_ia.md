@@ -1,4 +1,3 @@
-
 ---
 title: "Ciencia de proteínas basada en inteligencia artificial "
 collection: teaching
