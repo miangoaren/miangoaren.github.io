@@ -1,13 +1,16 @@
 ---
-title: " aaaaaaaaaaaaa"
+title: " zzzzzzzzzzzzzzz"
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
+{% raw %}
 
----
-hola mundo 
+<!--more-->
+
+{% endraw %}
+
 
 ![GBE screenshot](/images/gama_post_microbe.png)
 
