@@ -1,17 +1,21 @@
 ---
-title: " zzzzzzzzzzzzzzz"
+title: " ya quedo"
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
 {% raw %}
-
 <!--more-->
-
 {% endraw %}
 
+hola mundi 
+1. sadsa
+2. eweaed
+3. asdasd
 
+# hola 
+asi es 
 ![GBE screenshot](/images/gama_post_microbe.png)
 
 el comandante 
