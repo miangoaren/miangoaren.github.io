@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Reconstrucción y análisis de genomas a partir de metagenomas"
 collection: teaching
-type: "Workshop"
+type: "Webinar"
 permalink: /teaching/teaching_00001_wintergenomics
-venue: "University 1, Department"
+venue: "YouTube"
 date: 2015-01-01
-location: "City, Country"
+location: "CDMX, México"
 ---
 
 Tuve la oportunidad de colaborar con la empresa WinterGenomics para dar <a href="https://www.youtube.com/live/ckIbT93Qhjc?feature=share&t=275">este seminario</a>. 
