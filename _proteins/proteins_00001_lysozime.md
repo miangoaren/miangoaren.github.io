@@ -1,12 +1,8 @@
 ---
-title: "Una obra de teatro con proteínas  "
-excerpt: "Un artículo  de Gunnar von Heijne"
-excerpt_image: '/images/proteins/proteins_00001_lysozime_1.jpg'
+title: "Una obra de teatro con proteínas 🎭"
 collection: proteins
 permalink: /proteins/proteins_00001_lysozime
 date: 2023-04-01
-resource: 'proteins'
-paperurl: 'https://miangoar.github.io/'
 ---
 
 Un día durante una clase de biología estructural tope este precioso articulo [artículo]([https://gbe.stanford.edu/](https://www.sciencedirect.com/science/article/abs/pii/S0022283699929984)).
