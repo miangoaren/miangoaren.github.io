@@ -1,5 +1,5 @@
 ---
-title: "Post 1: Un nuevo árbol de la vida"
+title: "Post 1: Un nuevo árbol de la vida 🌳"
 collection: microbiome
 permalink: /microbiome/00001_tree_of_life
 date: 2019-08-03
