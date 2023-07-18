@@ -1,10 +1,11 @@
 ---
-title: " xxxx xxx xx segundo post el bicho siuuuuuuuuuuuuuuu"
+title: " ddddd xxx xx segundo post el bicho ddddd"
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
+  
 
 ![GBE screenshot](/images/gama_post_microbe.png)
 
