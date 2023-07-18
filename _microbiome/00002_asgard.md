@@ -1,5 +1,5 @@
 ---
-title: "Post 2: Mamá soy una arquea"
+title: "Post 2: Mamá ... soy una arquea! 🦠"
 collection: microbiome
 permalink: /microbiome/00002_asgard
 date: 2019-08-25
