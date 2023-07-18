@@ -1,7 +1,7 @@
 ---
 title: "De biólogo a biólog@ (v6.0)"
 collection: teaching
-permalink: /teaching/teach_00001_biologist
+permalink: /teaching/teach_00002_biologist
 date: 08-15-2022
 location: "CDMX, México"
 ---
