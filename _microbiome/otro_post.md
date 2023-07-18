@@ -1,12 +1,8 @@
 ---
 title: "segundo post siuuuuuuuuuuuuuuu"
-excerpt: "previz del segundo post"
-excerpt_image: '/images/gama_post_microbe.png'
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
-resource: 'microbiomas'
-
 ---
 
 ssiuuuuuuuuuuuu [ microbio](https://gbe.stanford.edu/), a
