@@ -7,9 +7,9 @@ permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
-{% raw %}
-{% endraw %}
 
+---
+hola mundo 
 
 ![GBE screenshot](/images/gama_post_microbe.png)
 
