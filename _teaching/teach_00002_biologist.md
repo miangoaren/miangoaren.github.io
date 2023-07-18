@@ -1,8 +1,10 @@
 ---
 title: "De biólogo a biólog@ (v6.0)"
 collection: teaching
+type: "PDF"
 permalink: /teaching/teach_00002_biologist
-date: 2022-08-15
+venue: "CDMX"
+date: 2022-15-08
 location: "CDMX, México"
 ---
 
