@@ -1,5 +1,5 @@
 ---
-title: "Una obra de teatro con proteínas 🎭"
+title: "Post 1: Una obra de teatro con proteínas 🎭"
 collection: proteins
 permalink: /proteins/00001_theater
 date: 2019-08-10
