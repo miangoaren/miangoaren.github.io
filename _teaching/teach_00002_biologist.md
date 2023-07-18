@@ -4,7 +4,7 @@ collection: teaching
 type: "PDF"
 permalink: /teaching/teach_00002_biologist
 venue: "CDMX"
-date: 2022-15-08
+date: 2022-08-15
 location: "CDMX, México"
 ---
 
