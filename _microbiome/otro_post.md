@@ -6,7 +6,7 @@ collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 resource: 'microbiomas'
-paperurl: 'https://miangoar.github.io/'
+
 ---
 
 ssiuuuuuuuuuuuu [ microbio](https://gbe.stanford.edu/), a
