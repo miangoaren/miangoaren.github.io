@@ -1,13 +1,11 @@
 ---
-title: " ya quedo"
+title: " ya quedo o no? "
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
-{% raw %}
-<!--more-->
-{% endraw %}
+&nbsp;
 
 hola mundi 
 1. sadsa
