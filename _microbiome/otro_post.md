@@ -1,5 +1,5 @@
 ---
-title: "segundo post"
+title: "segundo post siu"
 excerpt: "previz del segundo post"
 excerpt_image: '/images/gama_post_microbe.png'
 collection: microbiome
