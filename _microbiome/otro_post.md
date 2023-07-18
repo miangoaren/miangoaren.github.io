@@ -1,5 +1,5 @@
 ---
-title: "segundo post siuuuuuuuuuuuuuuu"
+title: "segundo post el bicho siuuuuuuuuuuuuuuu"
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
