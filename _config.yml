@@ -202,7 +202,7 @@ collections:
   other:
     output: true
     permalink: /:collection/:path/
-  borrame:
+  proteins:
     output: true
     permalink: /:collection/:path/
 
