@@ -1,5 +1,5 @@
 ---
-title: "Post 6: Problemas serios en la taxonómia de procariontes"
+title: "Post 6: Problemas serios en la taxonómia de procariontes 🔬"
 collection: microbiome
 permalink: /00006_taxonomy/00005_jgi
 date: 2021-03-16
