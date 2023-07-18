@@ -1,7 +1,7 @@
 ---
 title: 'Ciencia de proteínas basada en inteligencia artificial'
 date: 2012-08-14
-permalink: /teaching/teach_00002_protein_ia
+permalink: /teaching/teach_00003_protein_ia
 tags:
   - cool posts
   - category1
