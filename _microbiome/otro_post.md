@@ -1,16 +1,13 @@
 
 
 ---
-title: " xxxxxxx"
+title: " aaaaaaaaaaaaa"
 collection: microbiome
 permalink: /microbiome/otro_post
 date: 2023-04-01
 ---
 
 {% raw %}
-
-<!--more-->
-
 {% endraw %}
 
 
