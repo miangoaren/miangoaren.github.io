@@ -17,5 +17,5 @@ Por ejemplo. Si queremos estudiar su interacción con otras proteínas para form
 Refs:
 
 1. [Coarse-Grained Protein Models and Their Applications](https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00163)
-2. [Mesoescala: modelando la dinámica del flagelo bacteriano considerando las 175 subunidades proteicas que lo conforman]()
+2. [Mesoescala: modelando la dinámica del flagelo bacteriano considerando las 175 subunidades proteicas que lo conforman](https://miangoar.github.io/proteins/00024_nobel)
 3. [Escala cuántica: modelando como ocurre el corte del DNA por parte del sistema CRISPR-Cas9](https://miangoar.github.io/proteins/00016_md)
