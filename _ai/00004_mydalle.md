@@ -1,13 +1,13 @@
 ---
-title: "Post 3: Mi experiencia usando Dall-E"
+title: "Post 4: Mi experiencia usando Dall-E"
 collection: ai
 permalink: /ai/00004_mydalle
-date: 2022-06-15
+date: 2022-06-28
 ---
 
 &nbsp;
 
-Hoy me dieron acceso a Dall-E!!! Así que aquí van varias pruebas  
+Hoy (15.06.2022) me dieron acceso a Dall-E!!! Así que aquí van varias pruebas  
 
 <figure>
   <a href="/images/ai/00004_1.jpg">
