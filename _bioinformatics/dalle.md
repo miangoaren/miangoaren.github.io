@@ -1,5 +1,5 @@
 ---
-title: "dalle"
+title: "dallaaaaaae"
 collection: ai
 permalink: /ai/dalle
 date: 2020-05-13
@@ -69,9 +69,9 @@ siuuuu
       </div>
 		
 		 <div class="item">
-        <a href="https://www.inaturalist.org/observations/149257709" target="_blank"><img  class= "img-responsive center-block" src='https://inaturalist-open-data.s3.amazonaws.com/photos/257163823/original.jpeg' alt="Carex firmula"/></a>
+        <a href="/images/ai/00002_1.jpg" target="_blank"><img  class= "img-responsive center-block" src='/images/ai/00002_1.jpg' alt="siuuuuuuu"/></a>
 		  <div class="carousel-caption">
-        <p>Carex firmula</p>
+        <p>siuuuuuuu</p>
       </div>
       </div>
 
