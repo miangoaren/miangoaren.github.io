@@ -1,5 +1,5 @@
 ---
-title: "Post 4: Mi experiencia usando Dall-E"
+title: "Post 3: Mi experiencia usando Dall-E"
 collection: ai
 permalink: /ai/00004_mydalle
 date: 2022-06-15
