@@ -1,5 +1,5 @@
 ---
-title: "ssssssssssss"
+title: "hola"
 collection: ai
 permalink: /ai/dalle
 date: 2020-05-13
@@ -8,22 +8,22 @@ date: 2020-05-13
 
 siuuuu
 
-<figure>
-  <a href="/images/ai/00001_chem.jpg">
-  <img src="/images/ai/00001_chem.jpg" alt = "hola" />
-    </a>
-  <figcaption>soy un pie de cosa</figcaption>
-</figure>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+
+
+<!-- Estilos personalizados para el carrusel -->
 <style>
-  /* Estilos personalizados para el carrusel */
   .carousel-caption h3 {
-    color: white; /* Color de texto blanco */
-    border: 2px solid black; /* Borde negro de 2px alrededor del texto */
-    padding: 10px; /* Ajusta el espaciado del borde si es necesario */
-    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente negro para el título */
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
   }
 </style>
 
@@ -38,13 +38,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <!-- Imágenes del carrusel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_1.jpg" alt="Título de la Imagen 1">
+      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_10.jpg" alt="Título de la Imagen 1">
       <div class="carousel-caption">
         <h3>Título de la Imagen 1</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_10.jpg" alt="Título de la Imagen 2">
+      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_15.jpg" alt="Título de la Imagen 2">
       <div class="carousel-caption">
         <h3>Título de la Imagen 2</h3>
       </div>
@@ -62,12 +62,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-
-
-
 
 
 
