@@ -1,5 +1,5 @@
 ---
-title: "ddaleeeeeeeeeeeeeeeeeee"
+title: "xxxxxxxxxxxxx"
 collection: ai
 permalink: /ai/dalle
 date: 2020-05-13
@@ -31,13 +31,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <!-- Imágenes del carrusel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://github.com/miangoar/miangoar.github.io/blob/master/images/ai/00002_1.jpg" alt="Título de la Imagen 1">
+      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_1.jpg" alt="Título de la Imagen 1">
       <div class="carousel-caption">
         <h3>Título de la Imagen 1</h3>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://github.com/miangoar/miangoar.github.io/blob/master/images/ai/00002_5.jpg" alt="Título de la Imagen 2">
+      <img src="https://raw.githubusercontent.com/miangoar/miangoar.github.io/master/images/ai/00002_5.jpg" alt="Título de la Imagen 2">
       <div class="carousel-caption">
         <h3>Título de la Imagen 2</h3>
       </div>
