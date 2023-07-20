@@ -284,7 +284,7 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
 
  Más "fotografías" en comentarios y en este increíble hilo en [Twitter](https://twitter.com/triplux/status/1542529379485396995?)
 
-## Un mural hecho por David Alfaro Siqueiros; inspirado en el Hombre de Vitruvio de Leonardo da Vinci; en vez de hombre, una mujer; con moléculas de ADN en el fondo.
+## Un mural hecho por David Alfaro Siqueiros; inspirado en el Hombre de Vitruvio de Leonardo da Vinci; en vez de hombre, una mujer; con moléculas de ADN en el fondo
 
 <figure>
   <a href="/images/ai/00004_36.jpg">
