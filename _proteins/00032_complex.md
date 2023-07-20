@@ -31,7 +31,7 @@ Te quiero mucho fotosistema de Porphyridium purpureum. [Video por @gpintilie](ht
 
 <div>
 <center>
-<video width="500" autoplay="autoplay" loop="true" controls muted>
+<video width="350" autoplay="autoplay" loop="true" controls muted>
   <source src="/images/proteins/00031_complex.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
