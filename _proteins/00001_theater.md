@@ -7,7 +7,7 @@ date: 2019-08-10
 
 &nbsp;
 
-Un día durante una clase de biología estructural tope este precioso articulo.
+Un día durante una clase de biología estructural topé este precioso artículo.
 
 ![img](/images/proteins/proteins_00001_lysozime_1.jpg)
 
@@ -21,4 +21,4 @@ I guess time is up. And I'm happy to say that this was my final lecture this sem
 Hasta aquí mi reporte.
 
 Refs:
-1. A day in the life of Dr K. or how I learned to stop worrying and love lysozyme: a tragedy in six acts (https://www.sciencedirect.com/science/article/abs/pii/S0022283699929984)
+1.  [A day in the life of Dr K. or how I learned to stop worrying and love lysozyme: a tragedy in six acts](https://www.sciencedirect.com/science/article/abs/pii/S0022283699929984)
