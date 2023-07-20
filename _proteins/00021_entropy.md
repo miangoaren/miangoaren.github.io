@@ -11,7 +11,7 @@ Para que una proteína lleve acabo su función debe de ser "flexible", ni mucho 
 
 <div>
 <center>
-<video width="700" autoplay="autoplay" loop="true" controls muted>
+<video width="300" autoplay="autoplay" loop="true" controls muted>
   <source src="/images/proteins/00021_entropy.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
