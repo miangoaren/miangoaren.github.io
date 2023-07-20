@@ -1,5 +1,5 @@
 ---
-title: "Post 25: Las escalas de las proteínas "
+title: "Post 25: Las escalas de las proteínas ⏳"
 collection: proteins
 permalink: /proteins/00025_spacetime
 date: 2022-10-24
