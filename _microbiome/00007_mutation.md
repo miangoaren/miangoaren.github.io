@@ -1,5 +1,5 @@
 ---
-title: "Post 8: (Una mutación) LO CAMBIA TODOOO!"
+title: "Post 8: (Una mutación) LO CAMBIA TODOOO! 🪲"
 collection: microbiome
 permalink: /microbiome/00007_mutation
 date: 2022-02-10
