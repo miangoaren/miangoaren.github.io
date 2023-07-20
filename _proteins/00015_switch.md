@@ -1,5 +1,5 @@
 ---
-title: "Post 15: Un solo aminoácido puede hacer la diferencia"
+title: "Post 15: Un solo aminoácido puede hacer la diferencia ¯\_(ツ)_/¯"
 collection: proteins
 permalink: /proteins/00015_switch
 date: 2022-08-08
