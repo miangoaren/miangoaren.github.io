@@ -15,4 +15,5 @@ Un caso muy curioso al respecto, son las proteínas con plegamientos intercambia
 ![img](/images/proteins/00015_swtich.jpg)
 
 Refs:
-1.[One sequence plus one mutation equals two folds](https://www.pnas.org/doi/10.1073/pnas.0912370107)
+
+1. [One sequence plus one mutation equals two folds](https://www.pnas.org/doi/10.1073/pnas.0912370107)
