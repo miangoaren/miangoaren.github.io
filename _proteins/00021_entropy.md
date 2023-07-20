@@ -1,5 +1,5 @@
 ---
-title: "Post 21: Entropía conformacional de las proteínas "
+title: "Post 21: Entropía conformacional de las proteínas ⚡"
 collection: proteins
 permalink: /proteins/00021_entropy
 date: 2022-09-26
@@ -11,7 +11,7 @@ Para que una proteína lleve acabo su función debe de ser "flexible", ni mucho 
 
 <div>
 <center>
-<video width="300" autoplay="autoplay" loop="true" controls muted>
+<video width="350" autoplay="autoplay" loop="true" controls muted>
   <source src="/images/proteins/00021_entropy.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
