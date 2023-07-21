@@ -4,7 +4,7 @@ collection: teaching
 type: "Repositorio"
 permalink: /teaching/teach_00003_protein_ia
 venue: "GitHub"
-date: 2023-08-17
+date: 2023-07-17
 location: "EdoMex, México"
 ---
 
