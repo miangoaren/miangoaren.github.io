@@ -38,16 +38,18 @@ author_profile: true
   <p><span>👻</span> Otros intereses: gastronomía, economía/mercados, cultura musical (especialmente Death metal y piano neoclásico) y el terror (cósmico) </p>
 </div>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 
-
-# Contacto: 
+<span style="font-weight: bold; font-size: larger;">Contacto:</span>
 
 1. Correo electronico:
   - Personal (Preferente): gamamiguelangel@gmail.com
   - Académico: miguel.gonzalez@ibt.unam.mx
 2. Twitter: [@miangoar](https://twitter.com/miangoar)
+
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 
 
