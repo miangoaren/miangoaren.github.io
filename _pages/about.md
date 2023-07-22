@@ -13,9 +13,5 @@ redirect_from:
 
 ![robot](/images/gama_robot_learning2.png)
 
-Contacto: 
-1. Correo electronico:
-  - Personal (Preferente): gamamiguelangel@gmail.com
-  - Académico: miguel.gonzalez@ibt.unam.mx
-2. Twitter: [@miangoar](https://twitter.com/miangoar)
+
 
