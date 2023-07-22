@@ -21,9 +21,10 @@ Aquí van varias pruebas y algunos videos al respecto:
 2. [The REAL fight over AI art](https://youtu.be/NiJeB2NJy1A)
 
 Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un banco de textos útiles u otras apps que usar para mejorar los resultados)
-1) <https://promptbase.com/marketplace>
-2) <https://twitter.com/GuyP/status/1552681939806691329>
-3) <https://dallery.gallery/the-dalle-2-prompt-book/>
+
+1. <https://promptbase.com/marketplace>
+3. <https://twitter.com/GuyP/status/1552681939806691329>
+5. <https://dallery.gallery/the-dalle-2-prompt-book/>
 
 
 <figure>
