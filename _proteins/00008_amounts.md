@@ -1,5 +1,5 @@
 ---
-title: "Post 8: Un problema de cantidades: estructuras vs secuencias 🚨"
+title: "Post 8: Un problema de cantidades, estructuras vs secuencias 🚨"
 collection: proteins
 permalink: /proteins/00008_amounts
 date: 2021-11-24
