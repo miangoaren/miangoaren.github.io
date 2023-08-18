@@ -13,5 +13,5 @@ redirect_from:
 
 ![robot](/images/gama_robot_learning2.png)
 
-
+*Note: the content of this website is in spanish because this is the main language of my readers (friends)*
 
