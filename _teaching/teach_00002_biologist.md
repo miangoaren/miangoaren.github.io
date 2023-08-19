@@ -8,7 +8,14 @@ date: 2022-08-15
 location: "CDMX, México"
 ---
 
-<a href="https://drive.google.com/file/d/1BNApi3GvTwP5s0WIYfGxlUzmbXCOmHBR/view?usp=sharing">La actualización</a> anual de mi “guía de supervivencia” para estudiantes de biología 
+He creado esta serie de consejos para facilitar el aprendizaje a los nuevos alumnos/as de la carrera de biología en la Facultad de Ciencias (UNAM), aunque pueden ser generalizables a otras carreras.  
+
+Cuando inicié mi camino desconocía muchas cosas, desde las distintas formas de acceso a eventos de recreación hasta como descargar un articulo científico. Esta serie de consejos busca ayudar en esto al brindar recursos que pueden ser de utilidad 
+durante la carrera que me hubiera gustado que alguien me mostrara alguna vez
+
+Este es un proyecto en el que ya llevo varios años trabajando. Para darle visibilidad, usualmente me valgo de redes sociales así como de carteles que pego en las instalaciones de la facultad para que los alumnos puedan acceder.  
+
+<a href="https://drive.google.com/file/d/1BNApi3GvTwP5s0WIYfGxlUzmbXCOmHBR/view?usp=sharing">Aqui puedes encontrar la versión mas actual</a> de mi “guía de supervivencia” para estudiantes de biología 
 
 ![webinar](/images/teaching/biol.png)
 
