@@ -1,5 +1,5 @@
 ---
-title: "Post 44: ¿Cuándo evolucionaron las enzimas de resistencia contra antibióticos? 💊"
+title: "Post 44: ¿Qué tan vieja es la resistencia contra antibióticos?  💊"
 collection: proteins
 permalink: /proteins/00044_antibiotics
 date: 2023-08-24
@@ -31,11 +31,4 @@ Otros post similares para saber más sobre:
 5. [antibióticos descubiertos in inteligencia artificial](https://miangoar.github.io/ai/00013_anti)
 
 
-Para saber más sobre resucitar proteínas 
-https://www.facebook.com/gamarooney/posts/pfbid0xQairhcKjG6yCpNC2Ccn8T8DWdJ6Ms3VhFuP2zmSqWhx8aLGbDLuXi9Jni6xaHUql 
-
-Para saber más sobre evolución de la función  
-https://www.facebook.com/gamarooney/posts/pfbid0CtC1L2upU9N34Fh22ssukJqsFgC6ZizYT9GfePJ6kpNpSf5mH7BfRckdjHNQxwrSl
-Para saber más sobre evolución de proteínas   
-https://www.facebook.com/gamarooney/posts/pfbid035VsD2j3QYGyEunMfNgPfKg96HPNEj6PTx2v3nMjwwpfGE7BKph9dfKyy84DmH3N6l
 
