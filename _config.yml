@@ -205,6 +205,9 @@ collections:
   proteins:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -317,7 +320,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   
 
 # Sass/SCSS
