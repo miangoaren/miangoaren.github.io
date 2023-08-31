@@ -20,8 +20,8 @@ main:
   #- title: "Proteins"
    # url: /proteins/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Curriculum vitae (CV)"
+    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
