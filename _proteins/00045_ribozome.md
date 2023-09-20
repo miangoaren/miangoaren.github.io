@@ -2,7 +2,7 @@
 title: "Post 45: ¡El ribosoma es una ribozima!  😱"
 collection: proteins
 permalink: /proteins/00045_ribozome
-date: 2022-09-20
+date: 2023-09-20
 ---
 
 &nbsp;
