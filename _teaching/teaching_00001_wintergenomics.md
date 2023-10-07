@@ -12,3 +12,8 @@ location: "CDMX, México"
 
 En el, se introducen los principales procedimientos y herramientas para reconstruir genomas a partir de metagenomas asi como otros aspectos relacionados a los trabajos dentro del área de ecología microbiana. 
 ![webinar](/images/gama_metagenomics.png)
+
+<a href="https://drive.google.com/file/d/1M-mvBfLaH0nd6ELYtAfsOgbAjpA0i25h/view?usp=sharing">Puedes descargar las diapositivas aqui. 
+
+
+ 
