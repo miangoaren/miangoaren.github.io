@@ -9,7 +9,7 @@ redirect_from:
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.1"
-  overlay_image: /images/images/dna.gif
+  overlay_image: /images/dna.gif
   cta_label: "<i class='fab fa-twitter-square'></i> ¡Hola mundo!"
   # cta_url: https://twitter.com/miangoar
 excerpt: ""
