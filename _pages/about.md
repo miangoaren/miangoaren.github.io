@@ -9,9 +9,10 @@ redirect_from:
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.2"
-  overlay_image: images/gel.jpg
-  cta_label: # "<i class='fab fa-twitter-square'></i> siuuuu"
-  cta_url: # https://twitter.com/miangoar
+  overlay_image: /images/gel.jpg
+  cta_label: "<i class='fab fa-twitter-square'></i> tw"
+  cta_url: https://twitter.com/miangoar?lang=en
+  caption: # "Photo credit: [**freepik**](https://www.freepik.com/free-vector/vector-abstract-color-waves-design-element_1306739.htm)"
 excerpt: ""
 ---
 
