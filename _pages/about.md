@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "¡Hola mundo!"
+title: "¡Hola mundo! | ¡Hello word!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,9 @@ redirect_from:
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.2"
-  overlay_image: /images/gel.jpg
-  cta_label: "<i class='fab fa-twitter-square'></i> siuuuu"
-  cta_url: https://twitter.com/miangoar
+  overlay_image: images/gel.jpg
+  cta_label: # "<i class='fab fa-twitter-square'></i> siuuuu"
+  cta_url: # https://twitter.com/miangoar
 excerpt: ""
 ---
 
