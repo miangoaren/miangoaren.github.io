@@ -9,9 +9,9 @@ redirect_from:
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.2"
-  overlay_image: /images/gama_protein_ia.png
+  overlay_image: /images/gel.jpg
   cta_label: "<i class='fab fa-twitter-square'></i> ¡Hola mundo!"
-  # cta_url: https://twitter.com/miangoar
+  cta_url: https://twitter.com/miangoar
 excerpt: ""
 ---
 1. [CV](https://miangoar.github.io/talks/): breve descripción de mis intereses, medios de contacto y mi curriculum vitae
