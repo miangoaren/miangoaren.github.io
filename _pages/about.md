@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#030303"
   overlay_filter: "0.2"
   overlay_image: images/gel.jpg
   cta_label: # "<i class='fab fa-twitter-square'></i> tw"
