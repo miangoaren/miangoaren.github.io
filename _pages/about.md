@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 header:
   overlay_color: "#020303"
-  overlay_filter: "0.5"
-  overlay_image: /images/fondo.png
-  cta_label: "<i class='fab fa-twitter-square'></i> Follow me on Twitter"
-  cta_url: https://twitter.com/miangoar
+  overlay_filter: "0.1"
+  overlay_image: /images/images/dna.gif
+  cta_label: "<i class='fab fa-twitter-square'></i> ¡Hola mundo!"
+  # cta_url: https://twitter.com/miangoar
 excerpt: ""
 ---
 1. [CV](https://miangoar.github.io/talks/): breve descripción de mis intereses, medios de contacto y mi curriculum vitae
