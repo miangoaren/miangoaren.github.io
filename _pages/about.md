@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.1"
-  overlay_image: /images/dna.gif
+  overlay_filter: "0.2"
+  overlay_image: /images/gama_protein_ia.png
   cta_label: "<i class='fab fa-twitter-square'></i> ¡Hola mundo!"
   # cta_url: https://twitter.com/miangoar
 excerpt: ""
