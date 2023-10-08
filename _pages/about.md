@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Contenido"
+title: "¡Hola mundo!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,13 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.2"
   overlay_image: /images/gel.jpg
-  cta_label: "<i class='fab fa-twitter-square'></i> ¡Hola mundo!"
+  cta_label: "<i class='fab fa-twitter-square'></i> siuuuu"
   cta_url: https://twitter.com/miangoar
 excerpt: ""
 ---
+
+**Contenido**
+
 1. [CV](https://miangoar.github.io/talks/): breve descripción de mis intereses, medios de contacto y mi curriculum vitae
 2. [Enseñanza](https://miangoar.github.io/teaching/): distintos materiales para aprender
 3. [Blog](https://miangoar.github.io/year-archive/): publicaciones sobre distintos temas
