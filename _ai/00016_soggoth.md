@@ -93,7 +93,11 @@ PENDIENTE
 * https://twitter.com/soumithchintala/status/1671267150101721090
 * https://twitter.com/robotson/status/1710849194964160664
 
+explicacion de soggot
+* https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence 
+* https://www.youtube.com/watch?v=qsT45AdEVco&ab_channel=Fazt
 
+  
 eic
 * https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076
 * https://twitter.com/AISafetyMemes/status/1675830112996958212
