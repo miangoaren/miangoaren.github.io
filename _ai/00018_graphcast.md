@@ -1,5 +1,5 @@
 ---
-title: "Post 17: GraphCast, una IA que predice el clima 🌍"
+title: "Post 18: GraphCast, una IA que predice el clima 🌍"
 collection: ai
 permalink: /ai/00018_graphcast
 date: 2023-11-08
