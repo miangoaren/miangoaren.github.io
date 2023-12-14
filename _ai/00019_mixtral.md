@@ -20,12 +20,12 @@ Mixtral ha emocionado mucho más a la comunidad que el lanzamiento de Gemini, la
 refs:
 
 Pueden probar Mixtral gratis:
-1) [huggingface](https://huggingface.co/chat)
-2) [perplexity](labs.perplexity.ai)
+1. [huggingface](https://huggingface.co/chat)
+2. [perplexity](labs.perplexity.ai)
 
 [La pagina oficial de Mixtral](https://mistral.ai/news/mixtral-of-experts/)
 
 Y dos blogs tecnicos para saber mas de su tecnología:
-1) [huggingface blog](https://huggingface.co/blog/mixtral)
-2) [huggingface blog 2](https://huggingface.co/blog/moe)
+1. [huggingface blog](https://huggingface.co/blog/mixtral)
+2). [huggingface blog 2](https://huggingface.co/blog/moe)
 
