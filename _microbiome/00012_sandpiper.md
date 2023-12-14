@@ -13,7 +13,11 @@ Sandpiper es una base de datos que ha analizado ~250,000 metagenomas y ha clasif
 
 Por ejemplo, aquí están los datos de las arqueas del filo Asgardarchaeota (p__Asgardarchaeota). De los ~9,500 metagenomas donde se detectaron arqueas asgardianas, estos parecen los ambientes más comúnes donde encontrarlas.
 
-![euk](/images/microbiome/00012_sand.jpg)
+![euk](/images/microbiome/00013_sand.png)
+
+y el codigo para reproducir la figura
+
+![euk](/images/microbiome/00013_sand2.png)
 
 Refs:
 * [Sandpiper](https://sandpiper.qut.edu.au/)
