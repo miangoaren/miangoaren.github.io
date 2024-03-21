@@ -1,7 +1,7 @@
 ---
 title: "Introduction to microbial genomics and taxogenomics"
 collection: teaching
-type: "Webinar"
+type: "seminar"
 permalink: /teaching/teach_00002_taxa
 venue: "ICML/UNAM"
 date: 2023-10-10
