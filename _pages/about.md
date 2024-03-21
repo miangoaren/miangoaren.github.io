@@ -24,5 +24,5 @@ excerpt: ""
 
 ![robot](/images/robot_ml.png)
 
-*Note: a version in Spanish of this website is available at: [miangoar.github.io/](https://miangoar.github.io/)*
+*Note: a spanish version of this website is available at: [miangoar.github.io/](https://miangoar.github.io/)*
 
