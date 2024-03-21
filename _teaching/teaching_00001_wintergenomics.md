@@ -1,7 +1,7 @@
 ---
-title: "Reconstrucción y análisis de genomas a partir de metagenomas"
+title: "Analysis and reconstruction of Metagenome-Assembled Genomes "
 collection: teaching
-type: "Webinar"
+type: "seminar"
 permalink: /teaching/teaching_00001_wintergenomics
 venue: "YouTube"
 date: 2015-01-01
