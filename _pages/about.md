@@ -18,9 +18,9 @@ excerpt: ""
 
 **Contenido**
 
-1. [CV](https://miangoar.github.io/talks/): brief description of my interests, contact information, and my curriculum vitae
-2. [Teaching](https://miangoar.github.io/teaching/): various materials for learning
-3. [Blog](https://miangoar.github.io/year-archive/):  posts on various science topics
+1. [CV](https://miangoaren.github.io/talks/): brief description of my interests, contact information, and my curriculum vitae
+2. [Teaching](https://miangoaren.github.io/teaching/): various materials for learning
+3. [Blog](https://miangoaren.github.io/year-archive/):  posts on various science topics
 
 ![robot](/images/robot_ml.png)
 
