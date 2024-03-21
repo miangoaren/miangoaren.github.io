@@ -1,11 +1,11 @@
 ---
 title: "Protein science based on artificial intelligence"
 collection: teaching
-type: "Repositorio"
+type: "reposiroty"
 permalink: /teaching/teach_00003_protein_ia
 venue: "GitHub"
 date: 2023-07-17
-location: "EdoMex, México"
+location: "EdoMex, Mexico"
 ---
 
 <a href="https://github.com/miangoar/ciencia-de-proteinas-basada-en-IA">This repository</a> contains a series of YouTube videos to introduce to AI based protein science to spanish speakers.  
