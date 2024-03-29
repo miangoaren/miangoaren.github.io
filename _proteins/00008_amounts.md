@@ -1,5 +1,5 @@
 ---
-title: "Post 8: Un problema de cantidades, estructuras vs secuencias 🚨"
+title: "Post 8: UA problem of quantities, structures vs. sequences 🚨"
 collection: proteins
 permalink: /proteins/00008_amounts
 date: 2021-11-24
@@ -7,9 +7,9 @@ date: 2021-11-24
 
 &nbsp;
 
-Estaba releyendo un preprint de marzo del año pasado donde comentaban que, dado que casi no hay estructuras proteicas, lo sensato era aprender de las secuencias. Sin embargo, eso era en la era antes de AlphaFold2, y en teoría, en unos meses el equipo de DeepMind publicara sus resultados con modelos proteicos con precisión atómica para aproximadamente 100 millones de proteínas. Y esta grafica, se vera muy muy distinta. A veces la ciencia y la forma de hacerla cambia, y muy cañon. Y es emocionante apreciarlo in vivo. 
+I was rereading a preprint from March of last year where they mentioned that, given the scarcity of protein structures, it was wise to learn from sequences. However, that was in the era before AlphaFold2, and in theory, in a few months, the DeepMind team will publish their results with protein models with atomic precision for approximately 100 million proteins. And this graph will look very different. Sometimes science and the way it's done change, and very drastically. And it's exciting to witness it live.
 
-Pero y que diremos en unos años? "Con el advenimiento de AlphaFold2"?  De la la inteligencia artificial? Transformers?
+But what will we say in a few years? "With the advent of AlphaFold2"? Of artificial intelligence? Transformers?
 
 ![img](/images/proteins/00008_amount.jpg)
 
