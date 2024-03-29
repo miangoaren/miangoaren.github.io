@@ -8,7 +8,7 @@ date: 2022-06-28
 &nbsp;
 
 
-UUsing an artificial intelligence called Dall-E that converts text into an image, we can easily answer this question. And now the good news is that DALL-E IS NOW OPEN TO THE PUBLIC! (actually, it has been open for a couple of weeks and not so open). To access Dall-E v2, you need to:
+Using an artificial intelligence called Dall-E that converts text into an image, we can easily answer this question. And now the good news is that DALL-E IS NOW OPEN TO THE PUBLIC! (actually, it has been open for a couple of weeks and not so open). To access Dall-E v2, you need to:
 1. register on the [OpenAI website](https://openai.com/blog/dall-e-now-available-without-waitlist)
 2. Validate the registration with an access code sent to your phone.
 
