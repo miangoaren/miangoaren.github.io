@@ -1,5 +1,5 @@
 ---
-title: "Post 19: Mixtral, la competencia de ChatGPT 💪"
+title: "Post 19: Mixtral, the competition of ChatGPT 💪"
 collection: ai
 permalink: /ai/00019_mixtral
 date: 2023-12-13
@@ -7,25 +7,25 @@ date: 2023-12-13
 
 &nbsp;
 
-GPT-3.5 es la IA con la que se lanzó ChatGPT hace un año. Actualmente ChatGPT funciona con una IA mucho mejor llamada GPT-4, sin embargo, muchos prefieren la versión 3.5 por su relación costo/rendimiento. Pero lo cierto es que ha sido muy difícil superar ambas IAs … hasta ahora.
+GPT-3.5 is the AI with which ChatGPT was launched a year ago. Currently, ChatGPT runs on a much better AI called GPT-4, however, many prefer version 3.5 for its cost/performance ratio. But the truth is that it has been very difficult to surpass both AIs ... until now.
 
-La semana pasada se lanzó Mixtral-8×7B, una IA que supera a GPT-3.5. Y lo mejor es que Mixtral puede ser descargada y usada gratis por todos. Mixtral no es una IA de código abierto, pues para eso es necesario que se haya liberado su código, datos de entrenamiento, la IA en si y una licencia de uso adecuada. En este caso, los derechos comerciales son de Mistral AI (la empresa que entró a Mixtral), pero decidieron hacer disponible su IA para que todos pudieran usarla y construir sobre ella.
+Last week, Mixtral-8×7B was launched, an AI that surpasses GPT-3.5. And the best part is that Mixtral can be downloaded and used for free by everyone. Mixtral is not an open-source AI, as it requires its code, training data, the AI itself, and an appropriate license to be released. In this case, the commercial rights belong to Mistral AI (the company behind Mixtral), but they decided to make their AI available for everyone to use and build upon.
 
-Haber liberado Mixtral de esta forma es algo muy inteligente, pues es como si le aventaras un trozo de pan a unas gaviotas. Solo que en este caso las gaviotas son todos los desarrolladores que crearán e investigarán muchas cosas (de forma gratuita) para optimizar a Mixtral. Aunque usarla no es barato, pues ocupa mucha memoria y no todos tenemos una computadora así.
+Releasing Mixtral in this way is very smart, as it's like throwing a piece of bread to some seagulls. Except in this case, the seagulls are all the developers who will create and research many things (for free) to optimize Mixtral. Although using it is not cheap, as it requires a lot of memory and not everyone has a computer like that.
 
-Mixtral ha emocionado mucho más a la comunidad que el lanzamiento de Gemini, la IA de Google que está a la altura de GPT-4. Y aunque Gemini es buenisima, Google ha hecho un mal trabajo al presentarla pues mintió respecto a sus capacidades, opacando lo relevante de Gemini.
+Mixtral has excited the community much more than the launch of Gemini, Google's AI that is on par with GPT-4. And while Gemini is great, Google has done a poor job presenting it as it lied about its capabilities, overshadowing what is relevant about Gemini.
 
 ![img](/images/ai/00019_mix.jpg)
 
 refs:
 
-Pueden probar Mixtral gratis:
+You can try Mixtral for free:
 1. [huggingface](https://huggingface.co/chat)
 2. [perplexity](labs.perplexity.ai)
 
 [La pagina oficial de Mixtral](https://mistral.ai/news/mixtral-of-experts/)
 
-Y dos blogs tecnicos para saber mas de su tecnología:
+And two technical blogs to learn more about its technology:
 1. [huggingface blog](https://huggingface.co/blog/mixtral)
 2). [huggingface blog 2](https://huggingface.co/blog/moe)
 
