@@ -1,5 +1,5 @@
 ---
-title: "Post 4: Mi experiencia usando Dall-E 👨‍🎨"
+title: "Post 4: My experience using Dall-E 👨‍🎨"
 collection: ai
 permalink: /ai/00004_mydalle
 date: 2022-06-28
@@ -8,19 +8,19 @@ date: 2022-06-28
 &nbsp;
 
 
-Usando una inteligencia artificial llamada Dall-E que convierte el texto en una imagen podemos resolver fácilmente esta pregunta. ¡Y ahora lo bueno es que DALL-E YA ESTA ABIERTA AL PUBLICO! (en realidad, desde hace un par de semanas y ni tan abierta). Para tener acceso a Dall-E v2 es necesario:
-1. registrarse en la página de [OpenAI](https://openai.com/blog/dall-e-now-available-without-waitlist)
-2. Validar el registro con un código de acceso enviado a tu celular.
+UUsing an artificial intelligence called Dall-E that converts text into an image, we can easily answer this question. And now the good news is that DALL-E IS NOW OPEN TO THE PUBLIC! (actually, it has been open for a couple of weeks and not so open). To access Dall-E v2, you need to:
+1. register on the [OpenAI website](https://openai.com/blog/dall-e-now-available-without-waitlist)
+2. Validate the registration with an access code sent to your phone.
 
-Y listo, ahora tienes 50 créditos para imaginar 50 imágenes. 
+And voila, now you have 50 credits to imagine 50 images.
 
-Dall-E no es la única inteligencia artificial en su tipo, “Stable Difussion” es otra IA con una potencia similar que podemos usar sin tener que pagar por créditos. Sin embargo, hay que saberle mover un poco al código y tener una computadora/nube con tarjeta de vídeo (si quieren más detalles de eso escríbanme por mensaje). Sin embargo Stable Difussion también tiene una [página](https://beta.dreamstudio.ai/terms-of-service) donde nos regalan unos cuantos créditos y no es necesario saber de programación o tener una buena computadora, pues todo ocurre en la nube.
+Dall-E is not the only artificial intelligence of its kind, "Stable Difussion" is another AI with similar power that we can use without having to pay for credits. However, you need to know a little about code and have a computer/cloud with a video card (if you want more details about that, write to me by message). However, Stable Difussion also has a [page](https://beta.dreamstudio.ai/terms-of-service) where they give us a few credits and it is not necessary to know programming or have a good computer, as everything happens in the cloud.
 
-Aquí van varias pruebas y algunos videos al respecto:
+Here are several tests and some videos on the subject:
 1. [The AI that creates any picture you want, explained](https://youtu.be/SVcsDDABEkM)
 2. [The REAL fight over AI art](https://youtu.be/NiJeB2NJy1A)
 
-Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un banco de textos útiles u otras apps que usar para mejorar los resultados)
+And some "guides" on what kind of things can be created with these AIs (meaning, a bank of useful texts or other apps to use to improve the results)
 
 1. <https://promptbase.com/marketplace>
 3. <https://twitter.com/GuyP/status/1552681939806691329>
@@ -31,10 +31,10 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
   <a href="/images/ai/00004_1.jpg">
   <img src="/images/ai/00004_1.jpg" alt = "IMG" />
     </a>
-  <figcaption>Una bacteria conocé un robot</figcaption>
+  <figcaption>A bacteria meets a robot</figcaption>
 </figure>
 
-## Una pintura de Remedios Varo de una comunidad de microbios
+## A painting by Remedios Varo of a microbial community
 
 <figure>
   <a href="/images/ai/00004_2.jpg">
@@ -71,7 +71,7 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
   <figcaption>s</figcaption>
 </figure>
 
-## Una pintura de Van Gogh de una comunidad de microbios.
+## A Van Gogh painting of a community of microbes.
 
 <figure>
   <a href="/images/ai/00004_7.jpg">
@@ -139,7 +139,7 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
   <figcaption></figcaption>
 </figure>
 
-## Una caricatura de una bacteria gigante comiendo antibióticos
+## A cartoon of a huge bacteria eating antibiotics
 
 <figure>
   <a href="/images/ai/00004_16.jpg">
@@ -204,7 +204,7 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
   <figcaption></figcaption>
 </figure>
 
-## retratos reales
+## real portraits
 
 <figure>
   <a href="/images/ai/00004_25.jpg">
@@ -283,9 +283,9 @@ Y unas "guías" de que tipo de cosas se pueden crear con estas IAs (osea, un ban
   <figcaption></figcaption>
 </figure>
 
- Más "fotografías" en comentarios y en este increíble hilo en [Twitter](https://twitter.com/triplux/status/1542529379485396995?)
+More "photographs" in comments and in this incredible thread on [Twitter](https://twitter.com/triplux/status/1542529379485396995?)
 
-## Un mural hecho por David Alfaro Siqueiros; inspirado en el Hombre de Vitruvio de Leonardo da Vinci; en vez de hombre, una mujer; con moléculas de ADN en el fondo
+## A mural painted by David Alfaro Siqueiros; inspired by Leonardo da Vinci's Vitruvian Man; instead of a man, a woman; with DNA molecules in the background
 
 <figure>
   <a href="/images/ai/00004_36.jpg">
