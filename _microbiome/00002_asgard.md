@@ -1,5 +1,5 @@
 ---
-title: "Post 2: Mamá ... soy una arquea! 🦠"
+title: "Post 2: Mom... I'm an archaeon! 🦠"
 collection: microbiome
 permalink: /microbiome/00002_asgard
 date: 2019-08-25
@@ -7,17 +7,17 @@ date: 2019-08-25
 
 &nbsp;
 
-Uno de los baches actuales que se tienen en la biología es como se paso de ser un procarionte a un eucarionte. Por ahí de los 70s-80s,  se supo que había un tercer grupo de bichos igual de viejos que las bacterias, pero que no eran bacterias, y como son igual de viejos les llamo Arqueas. 
+One of the current gaps in biology is how we went from being a prokaryote to a eukaryote. Around the 1970s-1980s, it was known that there was a third group of organisms just as old as bacteria, but they weren't bacteria, so they were called Archaea, because they're just as old.
 
 ![euk](/images/microbiome/00002_euk.jpg)
 
-En 2015 se pudo recuperar varios genomas de arqueas marinas que se cree, son ese vinculo faltante entre procariontes y eucariontes y se les llamó arqueas Asgardianas (Loki, Hel, Thor, Odin y Heimdall, de este ultimo grupo se cree, derivan los eucariontes). El pex con estos bichos es que tienen un genoma super reducido y nunca se había podido cultivarlos pues solo viven si están asociados a sus hospederos simbiontes ... hasta ahora.
+In 2015, several genomes of marine archaea were recovered that are believed to be the missing link between prokaryotes and eukaryotes, and they were called Asgardian archaea (Loki, Hel, Thor, Odin, and Heimdall, with the latter group believed to be the ancestors of eukaryotes). The deal with these organisms is that they have a highly reduced genome and had never been able to be cultivated because they only live if they are associated with their symbiotic hosts... until now.
 
 ![cartoon](/images/microbiome/00002_cartoon.jpg)
 
-(Aunque el articulo aun sigue en preprint en Biorxiv) En agosto de este año, un equipo de 100tfikos japonenses liderados por Ken Takai publican el primer aislamiento de una de estas arqueas Asgardianas del grupo de las Lokiarchaeotas, el cual tomó más de 12 años en ver que el mugre cultivo no se contaminara y creciera lo suficiente para poder aislarla y secuenciarla, pues no crece sola, crece junto con bacterias metanogénicas como Halodesulfovibrio y Methanogenium. 
+(Even though the article is still in preprint on Biorxiv) In August of this year, a team of 100 Japanese researchers led by Ken Takai published the first isolation of one of these Asgardian archaea from the Lokiarchaeota group, which took more than 12 years to ensure that the darn culture wasn't contaminated and grew enough to be isolated and sequenced, as it doesn't grow alone, it grows together with methanogenic bacteria like Halodesulfovibrio and Methanogenium.
 
-El bicho en cuestión se llamó Prometheoarchaeum syntrophicum y demuestra experimentalmente mucho del metabolismo reducido de estos bichos que solo se conocía con métodos bioinformaticos.
+The organism in question was named Prometheoarchaeum syntrophicum and experimentally demonstrates much of the reduced metabolism of these organisms that was only known through bioinformatic methods
 
 ![ken](/images/microbiome/00002_ken.png)
 
