@@ -7,19 +7,19 @@ date: 2023-11-08
 
 &nbsp;
 
-Hace unos días Bad Bunny se quejó por esta canción hecha sin su consentimiento con una IA llamada [FlowGPT](youtu.be/u1FiPDPM9po), donde también salen Justin Bieber y Daddy Yankee. 
+A few days ago, Bad Bunny complained about this song made without his consent with an AI called [FlowGPT](youtu.be/u1FiPDPM9po), where Justin Bieber and Daddy Yankee also appear.
 
-Tuve curiosidad sobre su recepción, así que miné unos ~1200 comentarios y estas fueron las palabras más frecuentes (a forma de una gráfica de barras y nube de palabras).Curiosamente, varias de ellas (como: temazo, buena, mejor, brutal, genial) sugieren una buena recepción, aun siendo un tema hecho con pura IA.
+I was curious about its reception, so I mined about ~1200 comments and these were the most frequent words (in the form of a bar graph and word cloud). Interestingly, several of them (such as: great, good, best, brutal, awesome) suggest a good reception, even though it's a song made with pure AI.
 ![img](/images/ai/00017_bun.jpg)
 ![img](/images/ai/00017_bun2.jpg)
 
-Nadie más que su autor sabe cómo fue hecha, el cual lucra con este pico de fama y puedes contactarlo para hacer una canción bajo pedido usando FlowGPT; aunque dado la calidad de la canción seguro tomó un modelo pre-entrenado con derechos de autor y con el que no se puede hacer negocios. Sin embargo, imagino que el autor hizo la rítmica y posiblemente la letra usando una IA entrenada con canciones de reggaetón para aprender el tipo de letras y ritmos. Luego grabó con su propia voz la letra y usó una IA para hacer una transferencia del tono de voz de los cantantes a su canal de audio. Osea, seria algo semi-automatico. 
+Only its author knows how it was made, who profits from this peak of fame and you can contact him to make a song on request using FlowGPT; although given the quality of the song, it surely took a pre-trained model with copyright and with which you cannot do business. However, I imagine that the author made the rhythm and possibly the lyrics using an AI trained with reggaeton songs to learn the type of lyrics and rhythms. Then he recorded the lyrics with his own voice and used an AI to transfer the singers' tone of voice to his audio channel. In other words, it would be semi-automatic.
 
-Aunque actualmente puedes re-entrenar IAs para que canten con el tono de voz de un audio. de una sola persona. Y así hay canciones como estas:
-*  [Chester Bennington (Linkin Park) cantantando "My heart will go on" (AKA Titanic) de Céline Dion](youtu.be/yu9khcbTBMk)
-*  [Freddie Mercury (Queen) cantando “Beat It” de Michael Jackson](youtu.be/uHqSFa7OmHM)
-*  [o AMLO cantando “Vete ya” de Valentín Elizalde](youtu.be/V_CabUUP3Xg)
+Although you can currently retrain AIs to sing with the tone of voice of an audio of a single person. And so there are songs like these:
+*  [Chester Bennington (Linkin Park) and "My heart will go on" (AKA Titanic) from Céline Dion](youtu.be/yu9khcbTBMk)
+*  [Freddie Mercury (Queen) and “Beat It” from Michael Jackson](youtu.be/uHqSFa7OmHM)
+*  [Or AMLO and “Vete ya” from Valentín Elizalde](youtu.be/V_CabUUP3Xg)
 
-Todo es risa y diversión hasta que alguien tome todas tus historias de X red social y con los audios (donde tu sale tu voz) entrene una IA para estafar a familiares y amigos usando ingeniería social.Así que en estos tiempos, es importante acordar con tu circulo cercano una palabra clave que solo entiendan ustedes por si algún día los llegan a estafar.
+It's all fun and games until someone takes all your stories from X social network and the audios (where your voice appears) and trains an AI to scam family and friends using social engineering. So in these times, it's important to agree with your close circle on a keyword that only you understand in case you are ever scammed.
 
 
