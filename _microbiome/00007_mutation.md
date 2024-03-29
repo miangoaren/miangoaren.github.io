@@ -1,5 +1,5 @@
 ---
-title: "Post 8: (Una mutación) LO CAMBIA TODOOO! 🪲"
+title: "Post 8: A single mutation CHANGES EVERYTHING! 🪲"
 collection: microbiome
 permalink: /microbiome/00007_mutation
 date: 2022-02-10
@@ -7,9 +7,9 @@ date: 2022-02-10
 
 &nbsp;
 
-En ecología microbiana usamos un conjunto de genes para determinar especies mediante análisis filogenómicos. Sin embargo, muchos cuestionan si realmente podemos delimitar especies de bacterias así y que realmente las especies a este nivel no existen. El equipo de Takema usó una bacteria (E. coli) con alta tasa de mutación y la sustituyo por el simbionte obligado (Pantoea) de un insecto. Sin este simbionte obligado, el insecto se muere. Pero lograron hacer que E. coli colonizara al insecto y que pocos sobrevivieran, casi recuperando su aspecto normal en la ultima generación. 
+In microbial ecology, we use a set of genes to determine species through phylogenomic analysis. However, many question whether we can really delimit bacterial species in this way and whether species really exist at this level. The Takema team used a bacterium (E. coli) with a high mutation rate and replaced it with the obligate symbiont (Pantoea) of an insect. Without this obligate symbiont, the insect dies. However, they managed to colonize the insect with E. coli, and few survived, almost returning to their normal appearance in the last generation.
 
-Durante este tiempo por acción de la evolución, E. coli fue cambiando de forma y reduciendo su capacidad genética tal que ahora es similar a la del simbionte original. Y lo mas sorprendente es que este proceso tardo ~2 años, cosa que se pensaba tardaría mucho más. Y tons me pregunto, las especies bacterianas existen? los géneros, familias, clases? La auto-regulacion del mercado ? 
+During this time, due to evolution, E. coli changed shape and reduced its genetic capacity such that it is now similar to that of the original symbiont. And the most surprising thing is that this process took ~2 years, which was thought to take much longer. So I wonder, do bacterial species exist? genera, families, classes? Market self-regulation?"
 
 ![img1](/images/microbiome/00007_tree.jpg)
 
