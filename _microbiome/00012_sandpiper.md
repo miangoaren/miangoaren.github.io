@@ -1,5 +1,5 @@
 ---
-title: "Post 13: Ubica donde vide tu bacteria con Sandpiper"
+title: "Post 13: Find where your bacterium lives with Sandpiper"
 collection: microbiome
 permalink: /microbiome/00012_sandpiper
 date: 2023-11-27
@@ -7,22 +7,23 @@ date: 2023-11-27
 
 &nbsp;
 
-¿Quieres conocer dónde vive tu bacteria/arquea favorita pero no tienes ni idea de como saberlo? 🧐
+Want to know where your favorite bacterium/archaea lives but have no idea how to find out? 🧐
 
-Sandpiper es una base de datos que ha analizado ~250,000 metagenomas y ha clasificado taxonómicamente cada una de sus lecturas de ADN. Así podemos saber en cuantos metagenomas ha sido detectado nuestro bicho, en que ambientes, cuál es su distribución geográfica, etc. Solo busca el taxon que quieras basado en la taxonomía de la Genome Taxonomy Database.
+Sandpiper is a database that has analyzed ~250,000 metagenomes and taxonomically classified each of its DNA reads. This allows us to know in how many metagenomes our bug has been detected, in which environments, what its geographic distribution is, etc. Just search for the taxon you want based on the taxonomy of the Genome Taxonomy Database.
 
-Por ejemplo, aquí están los datos de las arqueas del filo Asgardarchaeota (p__Asgardarchaeota). De los ~9,500 metagenomas donde se detectaron arqueas asgardianas, estos parecen los ambientes más comúnes donde encontrarlas.
+For example, here are the data for the archaea of the phylum Asgardarchaeota (p__Asgardarchaeota). Of the ~9,500 metagenomes where Asgardian archaea were detected, these seem to be the most common environments to find them.
 
 ![euk](/images/microbiome/00013_sand.png)
 
-y el codigo para reproducir la figura
+and the code to reproduce the figure
+
 
 ![euk](/images/microbiome/00013_sand2.png)
 
 Refs:
 * [Sandpiper](https://sandpiper.qut.edu.au/)
 * [Genome Taxonomy Database (GTDB)](https://gtdb.ecogenomic.org/tree)
-* [Que es la GTDB?](https://youtu.be/TyLF03w8lRE?si=eDHiiMs3XKXH26qF&t=3156)
+* [What is the GTDB?](https://youtu.be/TyLF03w8lRE?si=eDHiiMs3XKXH26qF&t=3156)
 
 
 
