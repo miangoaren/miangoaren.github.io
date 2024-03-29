@@ -1,5 +1,5 @@
 ---
-title: "Post 9: Correlación no implica causalidad 🐉"
+title: "Post 9: Correlation does not imply causation 🐉"
 collection: academia
 permalink: /academia/00009_dragon
 date: 2023-07-04
@@ -7,7 +7,9 @@ date: 2023-07-04
 
 &nbsp;
 
-No olvidar que debido a que existe una correlación entre el aumento de la temperatura y el registro de dragones en la literatura, es muy probable que los dragones nuevamente vuelvan a conquistar el mundo como pasó en la era medieval ... no tengo pruebas pero tampoco dudas 🧐
+
+
+Let's not forget that just because there is a correlation between the rising temperatures and the mention of dragons in literature, it is very likely that dragons will rise again to conquer our world as they did in medieval ... I have no proof, but I also have no doubts 🧐
 
 Here be dragons
 * <https://www.nature.com/articles/520042a>
