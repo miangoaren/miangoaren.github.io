@@ -1,5 +1,5 @@
 ---
-title: "Post 1: Un nuevo árbol de la vida 🌳"
+title: "Post 1: A new tree of life 🌳"
 collection: microbiome
 permalink: /microbiome/00001_tree_of_life
 date: 2019-08-03
@@ -7,18 +7,18 @@ date: 2019-08-03
 
 &nbsp;
 
-Ya tiene rato que vengo pensando en postear los mejores artículos que he leído y que quisiera que más personas pudieran leer. Si alguien quiere discutir o hacerme ver un error en mi publicación, adelante! Para ver si leí bien los artículos. Así que aparentemente con este inicio una costumbre 🙂 
 
-Jillian Banfield y Laura Hug son dos de las principales autoras. Su linea principal es la ecogenómica, aunque tienen muchos otros derivados. En 2016 publicaron "A new view of the tree of life", un artículo donde se reconstruye "por primera vez"  un árbol de la vida en la era metagenómica. Un árbol super mamalón que tardó cosa de 5 meses de computo en la super computadora CIPRESS para su inferencia. En el discuten muchas cosas, resaltando sobre todo lo realmente diversos que son los procariontes (Árbol A) y la posición que guardamos al lado de las arqueas asgardianas, básicamente nuestras actuales primas por así decirlo. 
+I've been thinking for a while about posting the best articles I've read and that I would like more people to read. If anyone wants to discuss or point out an error in my post, go ahead! To see if I read the articles correctly. So apparently, with this start, a habit is born 🙂
+
+Jillian Banfield and Laura Hug are two of the main authors. Their main line is ecogenomics, although they have many other derivatives. In 2016, they published "A new view of the tree of life," an article where "for the first time" a tree of life is reconstructed in the metagenomic era. A really cool tree that took about 5 months of computation on the CIPRESS supercomputer for its inference. They discuss many things, highlighting above all how diverse prokaryotes really are (Tree A) and the position we hold next to the Asgardian archaea, basically our current cousins.
 
 ![lau](/images/microbiome/00001_lau.png)
 
-A inicios de 2018 Jillian y Cindy publican "Major New Microbial Groups ..." , una actualización al árbol del 2016, que incluye mas genomas de microbios que no pueden ser cultivados y que gracias a la metagenómica se han podido detectar (Árbol B). Si comparamos los arboles vemos que hay un ligero cambio,  pero aparentemente la topología se sigue manteniendo. Al menos hasta el descubrimiento de algún posible nuevo y gran grupo como lo fueron los super filos de bacterias CPR o DPANN de arqueas. 
+In early 2018, Jillian and Cindy published "Major New Microbial Groups...," an update to the 2016 tree, which includes more genomes of microbes that cannot be cultured and that have been detected thanks to metagenomics (Tree B). If we compare the trees, we see that there is a slight change, but apparently the topology remains the same. At least until the discovery of a possible new and large group like the super phyla of CPR bacteria or DPANN archaea. 
 
 ![tree](/images/microbiome/00001_trees.png)
 
-Son excelentes artículos con los que conocer principalmente la diversidad de procariontes y los nuevos grupos que se han descubierto en los últimos 5 años.  
-Hasta aquí mi reporte 🙂
+These are excellent articles with which to learn mainly about the diversity of prokaryotes and the new groups that have been discovered in the last 5 years. That's all for my report  🙂
 
 Refs:
 
