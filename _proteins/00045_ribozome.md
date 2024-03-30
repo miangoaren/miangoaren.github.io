@@ -1,5 +1,5 @@
 ---
-title: "Post 45: ¡El ribosoma es una ribozima!  😱"
+title: "Post 45: The ribosome is a ribozyme!  😱"
 collection: proteins
 permalink: /proteins/00045_ribozome
 date: 2023-09-20
@@ -7,11 +7,11 @@ date: 2023-09-20
 
 &nbsp;
 
-En la escuela se enseña que el ribosoma se encarga de sintetizar proteínas. Para ello, se usan dibujos fáciles de entender e ilustrar que el ribosoma se compone de RNA y proteínas (unas 50 en bacterias). Sin embargo, esta sobre simplificación podría estar restando relevancia al RNA. 
+In school, we are taught that the ribosome is responsible for synthesizing proteins. To illustrate this, easy-to-understand drawings are used to show that the ribosome is composed of RNA and proteins (about 50 in bacteria). However, this oversimplification may be downplaying the importance of RNA.
 
-Al RNA lo solemos entender como el precursor de las proteínas. Para que eso ocurra, tiene que ser traducido a aminoácidos por el ribosoma. Sin embargo, el RNA por sí solo también puede realizar la catálisis al igual que las proteínas! Cuando un RNA tiene esta habilidad catalitica, le llamamos ribozima. 
+RNA is usually understood as the precursor to proteins. For this to happen, it has to be translated into amino acids by the ribosome. However, RNA by itself can also catalyze reactions just like proteins! When an RNA has this catalytic ability, we call it a ribozyme.
 
-En realidad, el ribosoma es en gran parte ribozimas (RNAs ribosomales 5s, 16s y 23s). Y la función de las proteínas ribosomales es brindar soporte estructural y así como orientar al rRNA para adoptar conformaciones estructurales que sean catalíticas. 
+In reality, the ribosome is largely made up of ribozymes (rRNAs 5s, 16s, and 23s). The function of the ribosomal proteins is to provide structural support and to guide the rRNA to adopt structural conformations that are catalytic.
 
 <div>
 <center>
@@ -22,12 +22,12 @@ En realidad, el ribosoma es en gran parte ribozimas (RNAs ribosomales 5s, 16s y 
 </center>
 </div>
 
-La grandiosa plasticidad estructural del RNA, así como su capacidad catalítica son las bases de la teoría del mundo del RNA, la cual sugiere que antes de que existiera el DNA y las proteínas, existieron moléculas de RNA como portadoras de la información genética. El rRNA no es la única ribozima, gracias a la bioinformática se han detectado otras 14 ribozimas capaces de realizar distintas reacciones catalíticas. 
+The remarkable structural plasticity of RNA, as well as its catalytic ability, are the foundations of the RNA world hypothesis, which suggests that before DNA and proteins existed, RNA molecules served as carriers of genetic information. rRNA is not the only ribozyme; thanks to bioinformatics, another 14 ribozymes capable of performing different catalytic reactions have been detected.
 
 
 
-Referencias: 
+Refs: 
 1. [The Ribosome Is a Ribozyme ](https://www.science.org/doi/10.1126/science.289.5481.878)
-2. Para saber más sobre el papel de las ribozimas en la evolucion: [Promiscuous Ribozymes and Their Proposed Role in Prebiotic Evolution](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00620)
-3. Un ejemplo de como usar bioinfromatica para detectar ribozimas: [A widespread self-cleaving ribozyme class is revealed by bioinformatics](https://www.nature.com/articles/nchembio.1386)
+2. To learn more about the role of ribozimes in the evolution: [Promiscuous Ribozymes and Their Proposed Role in Prebiotic Evolution](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00620)
+3. An example of how to detect ribozimes with bioinformatics: [A widespread self-cleaving ribozyme class is revealed by bioinformatics](https://www.nature.com/articles/nchembio.1386)
 
