@@ -1,5 +1,5 @@
 ---
-title: "Post 25: Las escalas de las proteínas ⏳"
+title: "Post 25: The scales of proteins ⏳"
 collection: proteins
 permalink: /proteins/00025_spacetime
 date: 2022-10-24
@@ -7,9 +7,9 @@ date: 2022-10-24
 
 &nbsp;
 
-Una de las cosas más bonitas (y trabajosas) que tienen las proteínas, es que, si queremos comprender a detalle su función, debemos estudiarlas a distintas escalas de tiempo y espacio. Y esto es lo que ilustra esta imagen. 
+One of the most beautiful (and laborious) aspects of proteins is that, to fully understand their function, we must study them at different scales of time and space. And this is what this image illustrates.
 
-Por ejemplo. Si queremos estudiar su interacción con otras proteínas para formar complejos proteicos, debemos estudiarlas a una “mesoesacala” pues nos es imposible considerar todas las condiciones energéticas establecidas durante el proceso. Pero si queremos estudiar la catálisis, debemos estudiar hasta el mas fino detalle usando mecánica cuántica y así conocer aspectos tan finos como la transferencia de electrones que ocurre durante el proceso
+For example, if we want to study their interaction with other proteins to form protein complexes, we must study them at a "mesoscale" because it is impossible for us to consider all the energetic conditions established during the process. But if we want to study catalysis, we must study down to the finest detail using quantum mechanics to understand aspects as fine as the transfer of electrons that occur during the process.
 
 
 ![img](/images/proteins/00024_spacetime.jpg)
@@ -17,5 +17,5 @@ Por ejemplo. Si queremos estudiar su interacción con otras proteínas para form
 Refs:
 
 1. [Coarse-Grained Protein Models and Their Applications](https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00163)
-2. [Mesoescala: modelando la dinámica del flagelo bacteriano considerando las 175 subunidades proteicas que lo conforman](https://miangoar.github.io/proteins/00024_nobel)
-3. [Escala cuántica: modelando como ocurre el corte del DNA por parte del sistema CRISPR-Cas9](https://miangoar.github.io/proteins/00016_md)
+2. [Mesoscale: Modeling the dynamics of the bacterial flagellum considering its 175 protein subunits](https://miangoaren.github.io/proteins/00024_nobel)
+3. [Quantum Scale: Modeling how DNA is cut by the CRISPR-Cas9 system](https://miangoaren.github.io/proteins/00016_md)
