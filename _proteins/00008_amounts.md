@@ -1,5 +1,5 @@
 ---
-title: "Post 8: UA problem of quantities, structures vs. sequences 🚨"
+title: "Post 8: A problem of quantities, structures vs. sequences 🚨"
 collection: proteins
 permalink: /proteins/00008_amounts
 date: 2021-11-24
