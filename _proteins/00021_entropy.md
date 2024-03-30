@@ -1,5 +1,5 @@
 ---
-title: "Post 21: Entropía conformacional de las proteínas ⚡"
+title: "Post 21: The conformational entropy of proteins ⚡"
 collection: proteins
 permalink: /proteins/00021_entropy
 date: 2022-09-26
@@ -7,7 +7,8 @@ date: 2022-09-26
 
 &nbsp;
 
-Para que una proteína lleve acabo su función debe de ser "flexible", ni mucho como para no plegarse ni tan poco como para ser una piedra. En la animación [(del canal Ribosome Studio)](https://www.youtube.com/@Ribosomestudio) vemos la flexibilidad que tiene cada uno de los aminoácidos de una proteína, y al conjunto posibles posiciones que tienen todos los aminoácidos (y sus respectivos estados energéticos asociados) le llamamos entropía conformacional.
+
+For a protein to carry out its function, it must be "flexible," not too much to prevent folding nor too little to be a stone. In the animation [(from the Ribosome Studio channel)](https://www.youtube.com/@Ribosomestudio) we see the flexibility of each amino acid in a protein, and the set of possible positions of all amino acids (and their associated energy states) is called conformational entropy.
 
 <div>
 <center>
