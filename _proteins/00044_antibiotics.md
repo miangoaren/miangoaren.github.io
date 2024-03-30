@@ -7,7 +7,7 @@ date: 2023-08-24
 
 &nbsp;
 
-enicillins were the first antibiotics to be discovered almost 100 years ago. Penicillins belong to a group called beta-lactam antibiotics, which destroy the cell wall of bacteria. However, there are at least four other mechanisms to kill bacteria.
+Penicillins were the first antibiotics to be discovered almost 100 years ago. Penicillins belong to a group called beta-lactam antibiotics, which destroy the cell wall of bacteria. However, there are at least four other mechanisms to kill bacteria.
 
 ![img](/images/proteins/00044_blas.png)
 
