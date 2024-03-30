@@ -23,7 +23,7 @@ You can try Mixtral for free:
 1. [huggingface](https://huggingface.co/chat)
 2. [perplexity](labs.perplexity.ai)
 
-[La pagina oficial de Mixtral](https://mistral.ai/news/mixtral-of-experts/)
+[The Mixtral webpage](https://mistral.ai/news/mixtral-of-experts/)
 
 And two technical blogs to learn more about its technology:
 1. [huggingface blog](https://huggingface.co/blog/mixtral)
