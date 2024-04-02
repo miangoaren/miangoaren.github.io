@@ -24,5 +24,5 @@ excerpt: ""
 
 ![robot](/images/robot_ml.png)
 
-*Note: the content of this website is in spanish because this is the main language of my readers (friends)*
+Note: an english version of this website is available at miangoaren.github.io/
 
