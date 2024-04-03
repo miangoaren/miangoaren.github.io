@@ -24,5 +24,5 @@ excerpt: ""
 
 ![robot](/images/robot_ml.png)
 
-Note: an english version of this website is available at miangoaren.github.io/
+Note: an english version of this website is available at [miangoaren.github.io](https://miangoaren.github.io/)
 
