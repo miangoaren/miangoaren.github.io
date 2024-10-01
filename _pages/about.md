@@ -18,11 +18,13 @@ excerpt: ""
 
 **Content**
 
-1. [CV](https://miangoaren.github.io/talks/): brief description of my interests, contact information, and my curriculum vitae
-2. [Teaching](https://miangoaren.github.io/teaching/): various materials for learning
-3. [Blog](https://miangoaren.github.io/year-archive/): short posts on various science topics
+1. [CV](https://miangoaren.github.io/talks/): my interests, contact information, and CV
+2. [Teaching](https://miangoaren.github.io/teaching/): resources for learning
+3. [Blog](https://miangoaren.github.io/year-archive/): short posts about science topics
 
 ![robot](/images/robot_ml.png)
+
+Last update: December 2023 
 
 *Note: a spanish version of this website is available at [miangoar.github.io/](https://miangoar.github.io/)*
 
