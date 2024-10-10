@@ -1,7 +1,7 @@
 ---
-title: "Post 09: Malditos biólogos, arruinaron la biología 🤬 "
+title: "Post 10: Malditos biólogos, arruinaron la biología 🤬 "
 collection: bioinformatics
-permalink: /bioinformatics/00057_jane
+permalink: /bioinformatics/00009_history
 date: 2024-08-09
 ---
 
