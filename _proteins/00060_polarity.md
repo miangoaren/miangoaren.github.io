@@ -1,5 +1,5 @@
 ---
-title: "Post 60: Por qué algunas proteínas pueden hacer más funciones que otras?"
+title: "Post 60: Por qué algunas proteínas pueden hacer más funciones que otras? 🤔"
 collection: proteins
 permalink: /proteins/00060_polarity
 date: 2024-10-10
