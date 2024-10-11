@@ -19,7 +19,7 @@ En las proteínas con baja polaridad existe una coevolución más marcada entre 
 <div>
 <center>
 <video width="350" autoplay="autoplay" loop="true" controls muted>
-  <source src="/images/proteins/00060_pol" type="video/mp4">
+  <source src="/images/proteins/00060_pol.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
