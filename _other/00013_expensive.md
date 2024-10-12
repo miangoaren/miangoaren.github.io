@@ -1,5 +1,5 @@
 ---
-title: "Post 10: Hacer ciencia es muy caro 💸"
+title: "Post 13: Hacer ciencia es muy caro 💸"
 collection: other
 permalink: /other/00013_expensive
 date: 2024-07-21
