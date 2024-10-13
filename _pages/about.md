@@ -24,7 +24,7 @@ excerpt: ""
 
 ![robot](/images/robot_ml.png)
 
-Last update: December 2023 
+Last update: October 2024 
 
 *Note: a spanish version of this website is available at [miangoar.github.io/](https://miangoar.github.io/)*
 
