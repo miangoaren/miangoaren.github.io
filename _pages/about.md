@@ -24,7 +24,7 @@ excerpt: ""
 
 ![robot](/images/robot_ml.png)
 
-Última actualización: Diciembre 2023
+Última actualización: Octubre 2023
 
 Note: an english version of this website is available at [miangoaren.github.io](https://miangoaren.github.io/)
 
