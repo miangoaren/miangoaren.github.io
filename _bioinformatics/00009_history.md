@@ -1,5 +1,5 @@
 ---
-title: "Post 10: Damn Biologists, they Ruined Biology 🤬 "
+title: "Post 10: Damn biologists, they ruined biology 🤬 "
 collection: bioinformatics
 permalink: /bioinformatics/00009_history
 date: 2024-08-09
