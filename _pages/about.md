@@ -18,9 +18,9 @@ excerpt: ""
 
 **Contenido**
 
-1. [CV](https://miangoar.github.io/talks/): mis intereses, medios de contacto y CV
-2. [Enseñanza](https://miangoar.github.io/teaching/): recuersos para aprender
-3. [Blog](https://miangoar.github.io/year-archive/): publicaciones de distintos temas de ciencia 
+1. [CV](https://miangoar.github.io/talks/): mis intereses, contacto y CV
+2. [Enseñanza](https://miangoar.github.io/teaching/): recursos para aprender
+3. [Blog](https://miangoar.github.io/year-archive/): publicaciones breves sobre ciencia 
 
 ![robot](/images/robot_ml.png)
 
