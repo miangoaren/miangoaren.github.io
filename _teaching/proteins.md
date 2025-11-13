@@ -8,8 +8,7 @@ date: 2025-10-10
 location: "México"
 ---
 
-
-<a href="https://github.com/miangoar/AI-driven-protein-design">Este curso de 10 clases te ayudara a introducirte al diseño de proteinas. 
+<a href="https://github.com/miangoar/AI-driven-protein-design">Este curso</a> de 10 clases te ayudará a introducirte en el diseño de proteínas. 
 
 mucho texto
 
