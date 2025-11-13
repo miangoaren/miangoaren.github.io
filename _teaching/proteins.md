@@ -1,9 +1,9 @@
 ---
 title: "Proteina"
 collection: teaching
-type: "xxx"
+type: "Course"
 permalink: /teaching/proteins
-venue: "name"
+venue: "Youtube"
 date: 2025-10-10
 location: "México"
 ---
