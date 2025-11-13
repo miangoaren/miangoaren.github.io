@@ -1,18 +1,26 @@
----
-title: "Proteina"
+<img width="480" height="49" alt="image" src="https://github.com/user-attachments/assets/283901c3-3225-46fc-a085-51a5547cbfde" />---
+title: "Una guía para el diseño de proteínas basado en IA"
 collection: teaching
-type: "Course"
+type: "Curso"
 permalink: /teaching/proteins
 venue: "Youtube"
 date: 2025-10-10
 location: "México"
 ---
 
-<a href="https://github.com/miangoar/AI-driven-protein-design">Este curso</a> de 10 clases te ayudará a introducirte en el diseño de proteínas. 
-
-mucho texto
+<a href="https://github.com/miangoar/AI-driven-protein-design">Hice este curso</a> gratuito de 10 clases para introducirte al diseño de proteínas. 
 
 ![webinar](/images/teaching/roadmap.jpg)
+
+Quiero que más personas aprendan a diseñar proteinas usando IA, asi que hice este curso de 10 clases para introducirte al tema. El curso cuenta con dos principales recursos: las clases grabadas en YouTube asi como un este repositorio en Github donde recopilo los sigueintes recrusos pára ffacilitar tu aprendisaje: 
+* Herramientas
+* Recursos de aprendizaje
+* Bases de datos
+* Artículos seleccionados
+* Tutoriales
+* YouTube
+
+https://www.youtube.com/@miangoar_bio
 
 la platica
 * <a href="https://www.youtube.com/watch?v=TyLF03w8lRE"> YouTube  
