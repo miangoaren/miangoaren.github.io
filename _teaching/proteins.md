@@ -1,4 +1,4 @@
-<img width="480" height="49" alt="image" src="https://github.com/user-attachments/assets/283901c3-3225-46fc-a085-51a5547cbfde" />---
+---
 title: "Una guía para el diseño de proteínas basado en IA"
 collection: teaching
 type: "Curso"
