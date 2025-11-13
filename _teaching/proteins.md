@@ -35,6 +35,10 @@ El curso se compone de +800 diapositivas, cada una con las fuentes de las imagen
 
 LA idea de liberar todo el contenido es que puedas acceder a toda la inromacion y mejorar el curso para todos. Si eres docente de alguna insittucion o centro de investigacion y lo has adaptado para tus clases por avor hasmelo saber. Me encantaria saber que gracias al curso más alumnos han aprendido sobre diseño de propteinas. Sin emabrgo, si identificas a alguien que ha plagiado por completo todo este curso (o con minimas modificaciones) y cobra por acceder a el, te agradeceria me lo hicieras saber.
 
+## Como apoyar a este proyecto 
+* https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN
+
+
 
 ## Organizacion de clases
 
@@ -44,8 +48,8 @@ Las clases son teoricas y serializadas de 01 hasta 10 para una mejor comprension
 <ol>
   <li><strong>Conceptos básicos de computación</strong>
     <ol type="a">
-      <li>Como empezar a aprender bioinformatica</li>
-      <li>Hardware</li>
+      <li>Como empezar a aprender bioinformatica: una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres </li>
+      <li>Hardware: una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tresuna dos tres una dos tres una dos tres</li>
       <li>Software</li>
     </ol>
   </li>
@@ -120,15 +124,8 @@ Las clases son teoricas y serializadas de 01 hasta 10 para una mejor comprension
 </ol>
 
 
-
-
-
-  
-## Como apoyar a este proyecto 
-> https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN 
-
-
 ## Sobre mi
 
-(X)Twitter, Bluesky, and Instagram as @miangoar. And on LinkedIn at the following link
+Soy Miguel Ángel Gonzalez Arias, soy un biologo mexicano y me gustan las proteinas y los microbios. Para mas detalles consulta esa seccion de mi website
+* https://miangoar.github.io/talks/
 
