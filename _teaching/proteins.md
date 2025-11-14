@@ -48,91 +48,102 @@ Al liberar las diapositivas, pretendo que tengas acceso a más información para
 Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para explicar cómo funciona AlphaFold es necesario conocer conceptos sobre estructura de proteínas y transformers, los cuales se abordan en clases previas. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
-  <li><strong>Conceptos básicos de computación</strong>: aprende como funciona la computadora y las librerias basicas para analisis de datos
+  <li><strong>Conceptos básicos de computación</strong>: cómo funcionan la CPU y las GPU de las computadoras, así como el software básico para el análisis de datos (p. ej., Linux/Bash y Python).
     <ol type="a">
-      <li>Como empezar en la bioinformatica</li>
+      <li>Cómo empezar en la bioinformática</li>
       <li>Hardware</li>
       <li>Software</li>
     </ol>
   </li>
-  <li><strong>Machine learning</strong>
+
+  <li><strong>Machine learning</strong>: qué es la IA y sus subcampos, cuál es la capacidad actual de los algoritmos y cómo se entrena un modelo.
     <ol type="a">
       <li>Estado actual de la IA</li>
       <li>Cómo aprende la IA</li>
       <li>Cómo entrenar un modelo</li>
     </ol>
   </li>
-  <li><strong>Deep learning</strong>
+
+  <li><strong>Deep learning</strong>: cómo funcionan las redes neuronales, los distintos tipos de redes neuronales que existen y qué software se usa para trabajar con ellas.
     <ol type="a">
       <li>Redes neuronales</li>
-      <li>Librerias de deep learning</li>
+      <li>Librerías de deep learning</li>
     </ol>
   </li>
-  <li><strong>Transformers y modelos de lenguaje</strong>
+
+  <li><strong>Transformers y modelos de lenguaje</strong>: cómo funciona la arquitectura Transformer y los grandes modelos de lenguaje modernos, así como el software que se usa para trabajar con ellos.
     <ol type="a">
       <li>Modelos de lenguaje</li>
       <li>Transformers</li>
-      <li>Desempeño y generalizacion</li>
-      <li>Como trabajar con modelos de lenguaje</li>
+      <li>Desempeño y generalización</li>
+      <li>Cómo trabajar con modelos de lenguaje</li>
     </ol>
   </li>
-  <li><strong>Estructura de proteínas</strong>
+
+  <li><strong>Estructura de proteínas</strong>: principios de biología estructural de proteínas, así como la organización de secuencias y estructuras de proteínas.
     <ol type="a">
-      <li>Organizacion estructural</li>
-      <li>Clasiicaciones</li>
-      <li>La forma del universo de proteinas</li>
+      <li>Organización estructural</li>
+      <li>Clasificaciones</li>
+      <li>La forma del universo de proteínas</li>
     </ol>
   </li>
-  <li><strong>Función de proteínas</strong>
+
+  <li><strong>Función de proteínas</strong>: cómo las proteínas adoptan su estructura, cómo ocurre la catálisis y la unión a ligandos, y cómo se regula la función de manera postraduccional.
     <ol type="a">
-      <li>Pegamiento</li>
-      <li>Funcion</li>
-      <li>Regulacion funcional</li>
+      <li>Plegamiento</li>
+      <li>Función</li>
+      <li>Regulación funcional</li>
     </ol>
   </li>
+
   <li><strong>Evolución de proteínas</strong>
     <ol type="a">
-      <li>Niveles de organizacion biologica</li>
-      <li>Evolucion biologica</li>
+      <li>Niveles de organización biológica</li>
+      <li>Evolución biológica</li>
       <li>El espacio de secuencia</li>
       <li>Epistasis</li>
     </ol>
+    : cómo se cree que se generaron y diversificaron las proteínas actuales a partir de péptidos más simples y cómo opera la evolución molecular.
   </li>
-  <li><strong>AlphaFold</strong>
+
+  <li><strong>AlphaFold</strong>: descripción detallada de la arquitectura de AlphaFold2 y AlphaFold3, así como sus fortalezas, debilidades e impacto en la ciencia.
     <ol type="a">
       <li>AlphaFold</li>
       <li>AlphaFold2</li>
       <li>AlphaFold3</li>
     </ol>
   </li>
-  <li><strong>Diseño de proteínas basada en IA</strong>
+
+  <li><strong>Diseño de proteínas basado en IA</strong>: para qué diseñamos nuevas proteínas, cómo lucen estas nuevas proteínas y cómo se ha implementado la IA para modernizar los métodos clásicos y crear nuevos enfoques.
     <ol type="a">
-      <li>Diseño de proteinas</li>
+      <li>Diseño de proteínas</li>
       <li>Diseño racional</li>
       <li>Diseño evolutivo</li>
       <li>Aprendizaje de representaciones</li>
       <li>IA generativa</li>
     </ol>
   </li>
-  <li><strong>Datos y sesgos</strong>
+
+  <li><strong>Datos y sesgos</strong>: bases de datos principales donde encontrar datos, cómo procesarlos para usarlos en el entrenamiento de modelos y ejemplos de los sesgos inherentes que contienen.
     <ol type="a">
-      <li>Big data es ómicas</li>
+      <li>Big data en ómicas</li>
       <li>Conjuntos de datos</li>
       <li>Procesamiento de datos</li>
-      <li>Generalizacion en biologia</li>
+      <li>Generalización en biología</li>
       <li>Sesgos en los datos</li>
     </ol>
   </li>
 </ol>
 
+
 ## Como apoyar a este proyecto 
-Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si consideras que te ha sido útil y deseas apoyarme, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos.
+Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si te ha sido útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos.
 
 * [Donacion via paypal](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
 
 ## Sobre mi
 
-Soy Miguel Ángel Gonzalez Arias, soy un biologo mexicano y me gustan las proteinas y los microbios. Para mas detalles consulta esa seccion de mi website
+Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles y medios de contacto, consulta la siguiente pagina:
 * https://miangoar.github.io/talks/
 
