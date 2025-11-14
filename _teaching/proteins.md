@@ -40,18 +40,18 @@ El curso se compone de más +800 diapositivas, cada una con las fuentes de las i
 * [Zenodo]()
 * [Google Drive]()
 
-Al hacer públicas todas las diapositivas, pretendo que tengas acceso a más fuentes de información para profundizar en el tema en cuestión. Si eres docente en alguna institución o centro de investigación y has adoptado este material para tus clases, por favor házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas (i.e., tus alumnos) han aprendido sobre diseño de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso y cobra dinero por acceder a él, te agradecería que me lo hicieras saber.
+Al liberar las diapositivas, pretendo que tengas acceso a más información para profundizar en los temas. Si eres docente y has adoptado este material para tus clases, por favor házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre diseño de proteínas. Sin embargo, si identificas a alguien que ha plagiado total o parcialmente este curso y cobra dinero por acceder a él, te agradecería que me lo notificaras.
 
 ## Organizacion de clases
 
 ![webinar](/images/teaching/lectures.png)
-Las clases son teóricas y están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para explicar como funciona AlphaFold se requieren conceptos técnicos como “loss functions” o “generalización”, términos que se revisan en las primeras clases. A continuación se describen brevemente los temas de cada clase:
+Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para explicar cómo funciona AlphaFold es necesario conocer conceptos sobre estructura de proteínas y transformers, los cuales se abordan en clases previas. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
-  <li><strong>Conceptos básicos de computación</strong>
+  <li><strong>Conceptos básicos de computación</strong>: aprende como funciona la computadora y las librerias basicas para analisis de datos
     <ol type="a">
-      <li>Como empezar a aprender bioinformatica: una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres </li>
-      <li>Hardware: una dos tres una dos tres una dos tres una dos tres una dos tres una dos tres una dos tresuna dos tres una dos tres una dos tres</li>
+      <li>Como empezar en la bioinformatica</li>
+      <li>Hardware</li>
       <li>Software</li>
     </ol>
   </li>
