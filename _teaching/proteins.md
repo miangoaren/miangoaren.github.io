@@ -141,9 +141,9 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
 Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si te ha sido útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos. Haz clic en la siguiente imagen si quieres donar.
 ![webinar](/images/teaching/lectures.png)
 
-[![Donar](/images/teaching/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+[![Donar](/images/teaching/paypal.jpg‎)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-Si no cuentas con gran libertad económica pero aun así quieres expresar tu gratitud, puedes hacérmelo saber en mi correo:
+Si no cuentas con gran libertad económica pero aun así quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
 * gamamiguelangel@gmai.com
 
 Finalmente, te agradecería que compartieras este recurso con tus amigos y colegas que estén interesados en aprender sobre diseño de proteínas basado en IA.
