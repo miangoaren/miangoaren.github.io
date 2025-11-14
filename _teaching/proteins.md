@@ -45,6 +45,7 @@ Al liberar las diapositivas, pretendo que tengas acceso a más información para
 ## Organizacion de clases
 
 ![webinar](/images/teaching/lectures.png)
+
 Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para explicar cómo funciona AlphaFold es necesario conocer conceptos sobre estructura de proteínas y transformers, los cuales se abordan en clases previas. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
@@ -137,13 +138,18 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
 
 
 ## Como apoyar a este proyecto 
-Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si te ha sido útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos.
+Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si te ha sido útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos. Haz clic en la siguiente imagen si quieres donar.
+![webinar](/images/teaching/lectures.png)
 
-* [Donacion via paypal](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+[![Donar](/images/teaching/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
+Si no cuentas con gran libertad económica pero aun así quieres expresar tu gratitud, puedes hacérmelo saber en mi correo:
+* gamamiguelangel@gmai.com
+
+Finalmente, te agradecería que compartieras este recurso con tus amigos y colegas que estén interesados en aprender sobre diseño de proteínas basado en IA.
 
 ## Sobre mi
 
-Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles y medios de contacto, consulta la siguiente pagina:
+Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi y medios de contacto, consulta la siguiente pagina:
 * https://miangoar.github.io/talks/
 
