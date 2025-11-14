@@ -4,7 +4,7 @@ collection: teaching
 type: "Webinar"
 permalink: /teaching/teaching_00001_wintergenomics
 venue: "YouTube"
-date: 2015-01-01
+date: 2020-01-01
 location: "CDMX, México"
 ---
 
