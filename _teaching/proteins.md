@@ -16,11 +16,11 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia artificial (IA). Sin embargo, he encontrado dos problemas:
 1. no hay cursos integrales en línea sobre este tema
-2. los cursos en linea sobre ciencia de proteínas que he encontrado son muy costosos para la mayoría de los estudiantes (particularmente para Latinoamérica)
+2. los cursos relacionados al tema que he visto son costosos para la mayoría de los estudiantes de Latinoamérica
 
-<p>Para atender este problema, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso consta de dos recursos principales:</p>
+<p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso consta de dos recursos principales:</p>
 <ol>
-  <li>Las 10 clases en <a href="https://www.youtube.com/@miangoar_bio">YouTube</a></li>
+  <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
   <li>Un <a href="https://github.com/miangoar/AI-driven-protein-desig">repositorio en GitHub</a> con los siguientes recursos para facilitar tu aprendizaje:
     <ol type="a">
       <li>Herramientas: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
