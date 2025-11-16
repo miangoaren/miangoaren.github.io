@@ -153,4 +153,4 @@ Finally, I would appreciate it if you share this course with your colleagues who
 ## About me
 
 I am Miguel Angel Gonzalez Arias. I am a Mexican biologist, and I love proteins, microbes, and computing. For more details about me, my socials and other contact information, please visit:
-* [About me](https://miangoar.github.io/talks/)
+* [About me](https://miangoaren.github.io/talks/)
