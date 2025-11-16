@@ -10,7 +10,7 @@ location: "Mexico"
 
 I created this <a href="https://github.com/miangoar/AI-driven-protein-design">free 10-lecture course</a> to introduce you to protein design.
 
-![webinar](/images/teaching/roadmap.jpg)
+![webinar](https://miangoar.github.io/images/teaching/roadmap.jpg)
 
 ## General description
 
@@ -24,7 +24,7 @@ I want more people to learn how to design proteins using Artificial Intelligence
   <li><a href="https://www.youtube.com/@miangoar_bio">The 10 lectures on YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-desig">A GitHub repository</a> containing the following resources:
     <ol type="a">
-      <li>Tools: recommended libraries organized into 10+ categories such as protein sequence and structure processing, data downloading, machine learning, etc.</li>
+      <li>Tools: recommended libraries organized into +10 categories such as protein sequence and structure processing, data management, machine learning, etc.</li>
       <li>Learning resources: courses and blogs to learn topics such as Python, data science, bioinformatics, etc.</li>
       <li>Databases: recommended sources to download protein data (i.e., sequences, structures, embeddings, (meta)genomes).</li>
       <li>Tutorials: tutorials for learning how to process and analyze protein science data.</li>
@@ -36,16 +36,16 @@ I want more people to learn how to design proteins using Artificial Intelligence
 
 ## Access to the slides
 
-This course is composed of 800+ slides, each containing image sources, citations, and recommended resources in the notes section. The slides were created in PowerPoint, so I recommend viewing them using that software. You can download the slides in the following two options:
+This course is composed of +800 slides, each containing image sources, citations, and recommended resources in the notes section. The slides were created in PowerPoint, so I recommend viewing them using that software. You can download the slides in the following two options:
 
 * [Zenodo]()
 * [Google Drive]()
 
-This is intended to give you access to more information so you can explore the topics in greater depth. If you are an instructor and have adopted this material for your classes, please let me know. I would love to hear how you improved the course and to know that more people are learning about protein science. However, if you identify someone who has fully or partially plagiarized this course AND is charging money to access it, I would appreciate it if you notified me.
+This is intended to give you access to more information so you can explore the topics in greater depth. If you are a teacher and have adopted this material for your lectures, please let me know. I would love to hear how you improved the course and to know that more people are learning about protein science. However, if you identify someone who has fully or partially plagiarized this course AND is charging money to access it, I would appreciate it if you notified me.
 
 ## Course organization
 
-![webinar](/images/teaching/lectures.png)
+![webinar](https://miangoar.github.io/images/teaching/lectures.png)
 
 The theoretical lectures are numbered from 01 to 10 to facilitate understanding of the topics. For example, to discuss AlphaFold, it is necessary to know concepts from structural biology and deep learning. Below is a brief description of the lectures and their topics:
 
@@ -140,16 +140,16 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
 
 ## How to support this project
 
-Creating this course required a great deal of time and work. If you found it useful and would like to support me financially, you can make a donation via PayPal. Donations can be of any amount, or of 12, 30, or 45 USD (suggestions based on students’ economic situations and the typical cost of courses like this). Click the image below if you want to donate.
+Creating this course required a lot of time and work. If you found it useful and would like to support me financially, you can make a donation via PayPal. Donations can be of any amount, or of 12, 30, or 45 USD (suggestions based on students’ economic situations and the typical cost of courses like this). Click the image below if you want to donate.
 
-[![Donate](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+[![Donate](https://miangoar.github.io/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-If you do not have substantial financial flexibility but would still like to express your gratitude, you can send me your comments by email:
+If you do not have to much financial flexibility but would still like to express your gratitude, you can send me your comments by email:
 * gamamiguelangel@gmail.com
 
-Finally, I would appreciate it if you shared this course with colleagues who are interested in learning about AI-driven protein design.
+Finally, I would appreciate it if you share this course with your colleagues who are interested in learning about AI-driven protein design.
 
 ## About me
 
-I am Miguel Ángel Gonzalez Arias. I am a Mexican biologist, and I enjoy proteins, microbes, and computing. For more details about me, my social media profiles, and other contact information, please visit:
+I am Miguel Angel Gonzalez Arias. I am a Mexican biologist, and I love proteins, microbes, and computing. For more details about me, my socials and other contact information, please visit:
 * [About me](https://miangoar.github.io/talks/)
