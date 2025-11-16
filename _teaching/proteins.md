@@ -15,19 +15,19 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 ## Descripcion general
 
 Quiero que más personas aprendan a diseñar proteínas usando Inteligencia artificial (IA). Sin embargo, he encontrado dos problemas:
-1. no hay cursos integrales en línea sobre este tema
-2. los cursos relacionados al tema que he visto son costosos para la mayoría de los estudiantes de Latinoamérica
+1. no hay cursos integrales en línea sobre el tema
+2. los cursos relacionados al tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
 
-<p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso consta de dos recursos principales:</p>
+<p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso tiene dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
-  <li>Un <a href="https://github.com/miangoar/AI-driven-protein-desig">repositorio en GitHub</a> con los siguientes recursos para facilitar tu aprendizaje:
+  <li>Un <a href="https://github.com/miangoar/AI-driven-protein-desig">repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
       <li>Herramientas: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
-      <li>Recursos de aprendizaje: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, biología estructural, deep learning, etc.</li>
-      <li>Bases de datos: recursos recomendados para descargar secuencias y estructuras de proteínas.</li>
-      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos del área de la ciencia de proteínas.</li>
-      <li>Artículos seleccionados: artículos científicos que recomiendo para introducirte al tema.</li>
+      <li>Recursos de aprendizaje: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
+      <li>Bases de datos: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
+      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos relacionados a la ciencia de proteínas.</li>
+      <li>Artículos seleccionados: artículos científicos que recomiendo</li>
     </ol>
   </li>
 </ol>
@@ -35,21 +35,21 @@ Quiero que más personas aprendan a diseñar proteínas usando Inteligencia arti
 
 ## Acceso a las diapositivas
 
-El curso se compone de más +800 diapositivas, cada una con las fuentes de las imágenes y citas, así como recursos recomendados en la sección de notas. Las diapositivas fueron hechas en PowerPoint, por lo que recomiendo revisarlas en este software. Puedes descargar las diapositivas en las siguientes dos opciones:
+Este curso se compone de +800 diapositivas, cada una con las fuentes de las imágenes y citas, así como recursos recomendados en la sección de notas. Las diapositivas fueron hechas en PowerPoint, por lo que recomiendo revisarlas en este software. Puedes descargar las diapositivas en las siguientes dos opciones:
 
 * [Zenodo]()
 * [Google Drive]()
 
-Al liberar las diapositivas, pretendo que tengas acceso a más información para profundizar en los temas. Si eres docente y has adoptado este material para tus clases, por favor házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre diseño de proteínas. Sin embargo, si identificas a alguien que ha plagiado total o parcialmente este curso y cobra dinero por acceder a él, te agradecería que me lo notificaras.
+Con esto pretendo que tengas acceso a más información para profundizar en los temas. Si has adoptado este material para tus clases, por favor házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁs cobra dinero por acceder a él, te agradecería que me lo notificaras.
 
 ## Organizacion de clases
 
 ![webinar](/images/teaching/lectures.png)
 
-Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para explicar cómo funciona AlphaFold es necesario conocer conceptos sobre estructura de proteínas y transformers, los cuales se abordan en clases previas. A continuación se describen brevemente las clases y sus temas:
+Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para hablar sobre AlphaFold es necesario conocer conceptos de biologia estructrual y deep learning. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
-  <li><strong>Conceptos básicos de computación</strong>: cómo funcionan la CPU y las GPU de las computadoras, así como el software básico para el análisis de datos (p. ej., Linux/Bash y Python).
+  <li><strong>Conceptos básicos de computación</strong>: cómo funcionan la CPU y las GPU de las computadoras, así como el software básico para el análisis de datos (i.e. Linux/Bash y Python).
     <ol type="a">
       <li>Cómo empezar en la bioinformática</li>
       <li>Hardware</li>
@@ -72,7 +72,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Transformers y modelos de lenguaje</strong>: cómo funciona la arquitectura Transformer y los grandes modelos de lenguaje modernos, así como el software que se usa para trabajar con ellos.
+  <li><strong>Transformers y modelos de lenguaje</strong>: cómo funcionan los Transformers y los modelos de lenguaje modernos, así como el software que se usa para trabajar con ellos.
     <ol type="a">
       <li>Modelos de lenguaje</li>
       <li>Transformers</li>
@@ -81,7 +81,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Estructura de proteínas</strong>: principios de biología estructural de proteínas, así como la organización de secuencias y estructuras de proteínas.
+  <li><strong>Estructura de proteínas</strong>: principios de biología estructural, así como la organización de secuencias y estructuras de proteínas.
     <ol type="a">
       <li>Organización estructural</li>
       <li>Clasificaciones</li>
@@ -89,7 +89,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Función de proteínas</strong>: cómo las proteínas adoptan su estructura, cómo ocurre la catálisis y la unión a ligandos, y cómo se regula la función de manera postraduccional.
+  <li><strong>Función de proteínas</strong>: cómo las proteínas adoptan su estructura, cómo ocurre la catálisis y la unión a ligandos, y cómo se regula la función.
     <ol type="a">
       <li>Plegamiento</li>
       <li>Función</li>
@@ -97,17 +97,16 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Evolución de proteínas</strong>
+  <li><strong>Evolución de proteínas</strong>: cómo se cree que se generaron y diversificaron las proteínas a partir de péptidos más simples y cómo opera la evolución molecular.
     <ol type="a">
       <li>Niveles de organización biológica</li>
       <li>Evolución biológica</li>
       <li>El espacio de secuencia</li>
       <li>Epistasis</li>
     </ol>
-    : cómo se cree que se generaron y diversificaron las proteínas actuales a partir de péptidos más simples y cómo opera la evolución molecular.
   </li>
 
-  <li><strong>AlphaFold</strong>: descripción detallada de la arquitectura de AlphaFold2 y AlphaFold3, así como sus fortalezas, debilidades e impacto en la ciencia.
+  <li><strong>AlphaFold</strong>: revisión de la arquitectura de AlphaFold2 y AlphaFold3, sus fortalezas y debilidades e impacto en la ciencia.
     <ol type="a">
       <li>AlphaFold</li>
       <li>AlphaFold2</li>
@@ -115,7 +114,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Diseño de proteínas basado en IA</strong>: para qué diseñamos nuevas proteínas, cómo lucen estas nuevas proteínas y cómo se ha implementado la IA para modernizar los métodos clásicos y crear nuevos enfoques.
+  <li><strong>Diseño de proteínas basado en IA</strong>: motivos para diseñar proteínas, cómo son las proteínas diseñadas y cómo se ha implementado la IA para modernizar los métodos clásicos y crear nuevos enfoques.
     <ol type="a">
       <li>Diseño de proteínas</li>
       <li>Diseño racional</li>
@@ -125,7 +124,7 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
     </ol>
   </li>
 
-  <li><strong>Datos y sesgos</strong>: bases de datos principales donde encontrar datos, cómo procesarlos para usarlos en el entrenamiento de modelos y ejemplos de los sesgos inherentes que contienen.
+  <li><strong>Datos y sesgos</strong>: bases de datos relevantes, cómo procesar datos para usarlos en el entrenamiento de modelos y ejemplos de los sesgos inherentes que contienen.
     <ol type="a">
       <li>Big data en ómicas</li>
       <li>Conjuntos de datos</li>
@@ -138,18 +137,18 @@ Las clases teóricas están organizadas de la 01 a la 10 para facilitar la compr
 
 
 ## Como apoyar a este proyecto 
-Hacer este curso requirió mucho tiempo y trabajo. No busco lucrar con él, pero si te ha sido útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o, si lo prefieres, de 12, 30 o 45 dólares, cantidades sugeridas tomando en cuenta la economía de los estudiantes y el costo habitual de este tipo de cursos. Haz clic en la siguiente imagen si quieres donar.
-![webinar](/images/teaching/lectures.png)
 
-[![Donar](/images/teaching/paypal.jpg‎)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+Hacer este curso requirió mucho tiempo y trabajo. Si te fue útil y deseas apoyarme económicamente, puedes hacer una donación vía PayPal. Las donaciones pueden ser de cualquier monto o de 12, 30 o 45 dólares estadounidenses (sugerencias basadas en la economía de los estudiantes y el costo de este tipo de cursos). Haz clic en la siguiente imagen si quieres donar.
 
-Si no cuentas con gran libertad económica pero aun así quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
+[![Donar](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+
+Si no cuentas con gran libertad económica pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
 * gamamiguelangel@gmai.com
 
-Finalmente, te agradecería que compartieras este recurso con tus amigos y colegas que estén interesados en aprender sobre diseño de proteínas basado en IA.
+Finalmente, te agradecería que compartieras este curso con tus colegas interesados en aprender sobre diseño de proteínas basado en IA.
 
 ## Sobre mi
 
-Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi y medios de contacto, consulta la siguiente pagina:
-* https://miangoar.github.io/talks/
+Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi, redes sociales y otros medios de contacto, consulta la siguiente pagina:
+* [Sobre mi](https://miangoar.github.io/talks/)
 
