@@ -143,7 +143,7 @@ Hacer este curso requirió mucho tiempo y trabajo. Si te fue útil y deseas apoy
 [![Donar](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
 Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
-* gamamiguelangel@gmai.com
+* gamamiguelangel@gmail.com
 
 Finalmente, te agradecería que compartieras este curso con tus colegas interesados en aprender sobre diseño de proteínas basado en IA.
 
