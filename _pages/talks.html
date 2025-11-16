@@ -9,71 +9,50 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-
-<div style="text-align: center;">
-  <span style="font-weight: bold; font-size: larger;">Curriculum vitae</span>
-</div>
-
-
+<span style="font-weight: bold; font-size: larger;">About me:</span>
 <style>
-  .centered-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 400px; /* Ancho de la imagen */
-    border: 4px solid black;
-    overflow: hidden;
+  .circle-image {
+    width: 360px; /* Adjust the size as needed */
+    height: auto; /* Keeps the original aspect ratio */
+    border-radius: 0; /* No rounded borders */
+    overflow: visible; /* Shows the entire image */
   }
 </style>
 
+<div class="circle-image">
+  <img src="https://github.com/miangoar/miangoar.github.io/raw/master/images/me.png" alt="Gama Gama">
+</div>
+
 <div>
-  <img class="centered-image" src="https://github.com/miangoar/miangoar.github.io/raw/master/images/gama_gama2.jpeg" alt="gama">
+  <p><span>•</span> I am Miguel Ángel González Arias (AKA GAMA), and I am from Mexico.</p>
+</div>
+<div>
+  <p><span>•</span> I am a biologist (Faculty of Sciences, UNAM) and hold a Master’s degree in Biochemical Sciences (Biotechnology Institute, UNAM), specialized in bioinformatics.</p>
+</div>
+<div>
+  <p><span>•</span> I have experience in: metagenomics, microbial ecology, genome mining, phylogenomics, protein science, protein design, high-performance computing, data science and visualization, machine learning and deep learning, and language models.</p>
+</div>
+<div>
+  <p><span>•</span> Other interests: computing and hardware, gastronomy, economics and markets, musical culture (especially death metal and neoclassical piano), and cosmic horror.</p>
 </div>
 
-
-<div style="text-align: center;">
-  <p>👋 I'm Miguel Angel (AKA GAMA). Here you can download my <a href="https://miangoar.github.io/files/Curriculum_vitae_Gonzalez_Arias_Miguel_Angel.pdf"> CV in PDF format</a>.</p>
+<span style="font-weight: bold; font-size: larger;">Curriculum vitae:</span>
+<div>
+  <p>For more details about my professional experience, <a href="https://miangoar.github.io/files/Curriculum_vitae_Gonzalez_Arias_Miguel_Angel.pdf">download CV</a>.</p>
 </div>
 
+<span style="font-weight: bold; font-size: larger;">Contact:</span>
+<ul>
+  <li>Email: gamamiguelangel@gmail.com</li>
+  <li>(X)Twitter: <a href="https://twitter.com/miangoar">@miangoar</a></li>
+  <li>Bluesky: <a href="https://bsky.app/profile/miangoar.bsky.social">@miangoar</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/miangoar/#">@miangoar</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/@miangoar_bio">@miangoar_bio</a></li>
+  <li>Github: <a href="https://github.com/miangoar">@miangoar</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/miguel-angel-gonzalez-arias-61b04b2ba/">Miguel Angel Gonzalez Arias</a></li>
+</ul>
 
-<div style="text-align: center;">
-  <span style="font-weight: bold; font-size: larger;">Contact</span>
-</div>
-
-<div style="text-align: center;">
-  <p>e-mail: gamamiguelangel@gmail.com</p>
-  <p>Twitter: <a href="https://twitter.com/miangoar"> @miangoar</a></p>
-</div>
-
-
-<div style="text-align: center;">
-  <span style="font-weight: bold; font-size: larger;">About me</span>
-</div>
-
-
-<div style="text-align: center;">
-  <div>
-    <p><span>🏠</span>I was born in Mexico and currently live in the State of Mexico. </p>
-  </div>
-  <div>
-    <p><span>🎓</span>  I am a biologist by the Faculty of Sciences and I hold a master's degree in Biochemical Sciences focused on bioinformatics by the Institute of Biotechnology, both institutions are part of the National Autonomous University of Mexico </p>
-  </div>
-  <div>
-    <p><span>🔬</span> I have experience in Microbial ecology, genome mining, phylogenomics, protein science, high-performance computing, data science and visualization, machine learning and Deep learning </p>
-  </div>
-  <div>
-    <p><span>🧠</span> I am passionate about learning new things and sharing what I have learned in order to simplify things and save time</p>
-  </div>
-  <div>
-    <p><span>👻</span> Other interests: computing and hardware, gastronomy, economics/markets, musical culture (especially Death metal and neoclassical piano) and (cosmic) horror </p>
-  </div>
-</div>
-
-
-
-
-
-
+Last update: December 2025
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
