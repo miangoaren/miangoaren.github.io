@@ -14,19 +14,19 @@ Hice este <a href="https://github.com/miangoar/AI-driven-protein-design">curso g
 
 ## Descripcion general
 
-Quiero que más personas aprendan a diseñar proteínas usando Inteligencia artificial (IA). Sin embargo, he encontrado dos problemas:
+Quiero que más personas aprendan a diseñar proteínas usando Inteligencia Artificial (IA). Sin embargo, he encontrado dos problemas:
 1. no hay cursos integrales en línea sobre el tema
-2. los cursos relacionados al tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
+2. los cursos relacionados con el tema suelen ser costosos para la mayoría de los estudiantes de Latinoamérica
 
 <p>Para atender estos problemas, hice este curso gratuito de 10 clases para introducirte al diseño de proteínas basado en IA. El curso tiene dos recursos principales:</p>
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">Las 10 clases en YouTube</a></li>
-  <li>Un <a href="https://github.com/miangoar/AI-driven-protein-desig">repositorio en GitHub</a> con los siguientes recursos:
+  <li><a href="https://github.com/miangoar/AI-driven-protein-desig">Un repositorio en GitHub</a> con los siguientes recursos:
     <ol type="a">
       <li>Herramientas: librerías recomendadas y organizadas en +10 categorías, como procesamiento de secuencias y estructuras de proteínas, descarga de datos, machine learning, etc.</li>
       <li>Recursos de aprendizaje: cursos y blogs para aprender temas como Python, ciencia de datos, bioinformática, etc.</li>
       <li>Bases de datos: recursos recomendados para descargar datos de proteínas (i.e. secuencias, estructuras, embeddings, (meta)genomas).</li>
-      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos relacionados a la ciencia de proteínas.</li>
+      <li>Tutoriales: tutoriales para aprender a procesar y analizar datos relacionados con la ciencia de proteínas.</li>
       <li>Artículos seleccionados: artículos científicos que recomiendo</li>
     </ol>
   </li>
@@ -40,13 +40,13 @@ Este curso se compone de +800 diapositivas, cada una con las fuentes de las imá
 * [Zenodo]()
 * [Google Drive]()
 
-Con esto pretendo que tengas acceso a más información para profundizar en los temas. Si has adoptado este material para tus clases, por favor házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁs cobra dinero por acceder a él, te agradecería que me lo notificaras.
+Con esto pretendo que tengas acceso a más información para profundizar en los temas. Si eres docente y has adoptado este material para tus clases, por favor, házmelo saber. Me encantaría conocer cómo mejoraste el curso y saber que más personas han aprendido sobre ciencia de proteínas. Sin embargo, si identificas que alguien ha plagiado total o parcialmente este curso Y ADEMÁS cobra dinero por acceder a él, te agradecería que me lo notificaras.
 
-## Organizacion de clases
+## Organización de clases
 
 ![webinar](/images/teaching/lectures.png)
 
-Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para hablar sobre AlphaFold es necesario conocer conceptos de biologia estructrual y deep learning. A continuación se describen brevemente las clases y sus temas:
+Las clases teóricas están organizadas de la 01 a la 10 para facilitar la comprensión de los temas. Por ejemplo, para hablar sobre AlphaFold es necesario conocer conceptos de biología estructural y deep learning. A continuación se describen brevemente las clases y sus temas:
 
 <ol>
   <li><strong>Conceptos básicos de computación</strong>: cómo funcionan la CPU y las GPU de las computadoras, así como el software básico para el análisis de datos (i.e. Linux/Bash y Python).
@@ -142,7 +142,7 @@ Hacer este curso requirió mucho tiempo y trabajo. Si te fue útil y deseas apoy
 
 [![Donar](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-Si no cuentas con gran libertad económica pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
+Si no cuentas con gran libertad económica, pero quieres expresar tu gratitud, puedes enviarme tus comentarios a mi correo:
 * gamamiguelangel@gmai.com
 
 Finalmente, te agradecería que compartieras este curso con tus colegas interesados en aprender sobre diseño de proteínas basado en IA.
