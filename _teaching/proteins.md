@@ -151,5 +151,5 @@ Finalmente, te agradecería que compartieras este curso con tus colegas interesa
 ## Sobre mi
 
 Soy Miguel Ángel Gonzalez Arias. Soy un biólogo mexicano y me gustan las proteínas, los microbios y la computación. Para más detalles sobre mi, redes sociales y otros medios de contacto, consulta la siguiente pagina:
-* [Sobre mi](https://miangoar.github.io/talks/)
+* [Sobre mi](https://miangoaren.github.io/talks/)
 
