@@ -51,7 +51,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
 
 <ol>
 
-  <li><strong>Basic computing concepts</strong>: how CPUs and GPUs work, as well as the essential software for data analysis (i.e., Linux/Bash and Python).
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis (i.e., Linux/Bash and Python).
     <ol type="a">
       <li>How to get started in bioinformatics</li>
       <li>Hardware</li>
@@ -59,7 +59,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Machine learning</strong>: what AI is and its subfields, the current capabilities of algorithms, and how a model is trained.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: what AI is and its subfields, the current capabilities of algorithms, and how a model is trained.
     <ol type="a">
       <li>The current state of AI</li>
       <li>How AI learns</li>
@@ -67,14 +67,14 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Deep learning</strong>: how neural networks work, the different types of neural networks, and the software used to work with them.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: how neural networks work, the different types of neural networks, and the software used to work with them.
     <ol type="a">
       <li>Neural networks</li>
       <li>Deep learning libraries</li>
     </ol>
   </li>
 
-  <li><strong>Transformers and language models</strong>: how Transformers and modern language models work, as well as the software used to work with them.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers and language models</a></strong>: how Transformers and modern language models work, as well as the software used to work with them.
     <ol type="a">
       <li>Language models</li>
       <li>Transformers</li>
@@ -83,7 +83,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Protein structure</strong>: principles of structural biology and the organization of protein sequences and structures.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein structure</a></strong>: principles of structural biology and the organization of protein sequences and structures.
     <ol type="a">
       <li>Structural organization</li>
       <li>Classifications</li>
@@ -91,7 +91,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Protein function</strong>: how proteins adopt their structure, how catalysis and ligand binding occur, and how function is regulated.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein function</a></strong>: how proteins adopt their structure, how catalysis and ligand binding occur, and how function is regulated.
     <ol type="a">
       <li>Folding</li>
       <li>Function</li>
@@ -99,7 +99,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Protein evolution</strong>: how proteins are thought to have originated and diversified from simpler peptides, and how molecular evolution operates.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein evolution</a></strong>: how proteins are thought to have originated and diversified from simpler peptides, and how molecular evolution operates.
     <ol type="a">
       <li>Levels of biological organization</li>
       <li>Biological evolution</li>
@@ -108,7 +108,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>AlphaFold</strong>: overview of the AlphaFold2 and AlphaFold3 architectures, their strengths and weaknesses, and their impact on science.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: overview of the AlphaFold2 and AlphaFold3 architectures, their strengths and weaknesses, and their impact on science.
     <ol type="a">
       <li>AlphaFold</li>
       <li>AlphaFold2</li>
@@ -116,7 +116,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>AI-driven protein design</strong>: motivations for designing proteins, characteristics of designed proteins, and how AI has modernized classical methods and enabled new approaches.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AI-driven protein design</a></strong>: motivations for designing proteins, characteristics of designed proteins, and how AI has modernized classical methods and enabled new approaches.
     <ol type="a">
       <li>Protein design</li>
       <li>Rational design</li>
@@ -126,7 +126,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
     </ol>
   </li>
 
-  <li><strong>Data and biases</strong>: relevant databases, how to process data for model training, and examples of inherent biases present in datasets.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Data and biases</a></strong>: relevant databases, how to process data for model training, and examples of inherent biases present in datasets.
     <ol type="a">
       <li>Big data in omics</li>
       <li>Datasets</li>
@@ -137,6 +137,7 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
   </li>
 
 </ol>
+
 
 ## How to support this project
 
