@@ -4,51 +4,52 @@ collection: teaching
 type: "Course"
 permalink: /teaching/proteins
 venue: "YouTube"
-date: 2025-10-10
+date: 2026-01-10
 location: "Mexico"
 ---
 
-I created this <a href="https://github.com/miangoar/AI-driven-protein-design">free 10-lecture course</a> to introduce you to protein design.
+I created this <a href="https://github.com/miangoar/AI-driven-protein-design">free course</a> consisting of 10 lectures to introduce you to AI-driven protein design.
 
-![webinar](https://miangoar.github.io/images/teaching/roadmap.jpg)
+![webinar](/images/teaching/roadmap.jpg)
 
-## General description
+# Contents
+- [General description](#general-description)
+- [Course organization](#course-organization)
+- [Access to the slides](#access-to-the-slides)
+- [How to support this project](#how-to-support-this-project)
+- [About me](#about-me)
 
-I want more people to learn how to design proteins using Artificial Intelligence (AI). However, I’ve found two problems:
-1. there are no comprehensive online courses on the topic  
-2. the existing courses are often too expensive for most students in Latin America  
+Note: there is a version of this page in [Spanish](https://miangoar.github.io/teaching/proteins).
 
-<p>To address these problems, I created this free 10-lecture course as an introduction to AI-driven protein design. The course has two main resources:</p>
+# General description
+
+I want more people to learn how to design proteins using Artificial Intelligence (AI). However, I have encountered three main problems:
+
+1. There is a large amount of information, and it is not clear where to start or which topics are necessary.
+2. There are no comprehensive online courses on this topic in Spanish.
+3. Courses related to this field are usually expensive for most students in Latin America.
+
+<p>To address these issues, I created this free 37-hour course, distributed across 10 lectures, to introduce you to AI-driven protein design. The course includes two main resources:</p>
 
 <ol>
   <li><a href="https://www.youtube.com/@miangoar_bio">The 10 lectures on YouTube</a></li>
-  <li><a href="https://github.com/miangoar/AI-driven-protein-desig">A GitHub repository</a> containing the following resources:
+  <li><a href="https://github.com/miangoar/AI-driven-protein-design">A GitHub repository</a> with the following resources:
     <ol type="a">
-      <li>Tools: recommended libraries organized into +10 categories such as protein sequence and structure processing, data management, machine learning, etc.</li>
-      <li>Learning resources: courses and blogs to learn topics such as Python, data science, bioinformatics, etc.</li>
-      <li>Databases: recommended sources to download protein data (i.e., sequences, structures, embeddings, (meta)genomes).</li>
-      <li>Tutorials: tutorials for learning how to process and analyze protein science data.</li>
-      <li>Selected papers: scientific articles I recommend.</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Tools</a>: libraries organized into 25 categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Learning resources</a>: useful courses and publications organized into eight categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Databases</a>: resources to download genomic and protein data organized into 12 categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video">Lectures</a>: links to each lecture and to download the slides</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tutorials">Tutorials</a>: tutorials to learn how to process and analyze data in protein science</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/selected_papers">Selected papers</a>: recommended scientific papers</li>
     </ol>
   </li>
 </ol>
 
+# Course organization
 
-## Access to the slides
+![webinar](/images/teaching/lectures.png)
 
-This course is composed of +800 slides, each containing image sources, citations, and recommended resources in the notes section. The slides were created in PowerPoint, so I recommend viewing them using that software. You can download the slides in the following two options:
-
-* [Zenodo]()
-* [Google Drive]()
-
-This is intended to give you access to more information so you can explore the topics in greater depth. If you are a teacher and have adopted this material for your lectures, please let me know. I would love to hear how you improved the course and to know that more people are learning about protein science. However, if you identify someone who has fully or partially plagiarized this course AND is charging money to access it, I would appreciate it if you notified me.
-
-## Course organization
-
-![webinar](https://miangoar.github.io/images/teaching/lectures.png)
-
-The theoretical lectures are numbered from 01 to 10 to facilitate understanding of the topics. For example, to discuss AlphaFold, it is necessary to know concepts from structural biology and deep learning. Below is a brief description of the lectures and their topics:
-
+The lectures are organized from 01 to 10 to facilitate conceptual understanding. For example, reviewing AlphaFold requires knowledge of structural biology and deep learning, which are covered in detail in their respective lectures. Below is a brief description of each lecture and its topics:
 
 <ol>
   <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis.
@@ -322,18 +323,45 @@ The theoretical lectures are numbered from 01 to 10 to facilitate understanding 
   </li>
 </ol>
 
-## How to support this project
 
-Creating this course required a lot of time and work. If you found it useful and would like to support me financially, you can make a donation via PayPal. Donations can be of any amount, or of 12, 30, or 45 USD (suggestions based on students’ economic situations and the typical cost of courses like this). Click the image below if you want to donate.
+# Access to the slides
 
-[![Donate](https://miangoar.github.io/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+This course includes more than 800 slides with image sources, citations, and recommended resources for deeper study in the notes section. I recommend reviewing the slides using PowerPoint. You can download the slides from Zenodo and Google Drive:
 
-If you do not have to much financial flexibility but would still like to express your gratitude, you can send me your comments by email:
-* gamamiguelangel@gmail.com
+| Topic | Slides | YouTube |
+|------|--------|---------|
+| Basic computing concepts | Drive, Zenodo | Video |
+| Machine learning | Drive, Zenodo | Video |
+| Deep learning | Drive, Zenodo | Video |
+| Transformers and language models | Drive, Zenodo | Video |
+| Protein structure | Drive, Zenodo | Video |
+| Protein function | Drive, Zenodo | Video |
+| Protein evolution | Drive, Zenodo | Video |
+| AlphaFold | Drive, Zenodo | Video |
+| AI-based protein design | Drive, Zenodo | Video |
+| Data and bias | Drive, Zenodo | Video |
 
-Finally, I would appreciate it if you share this course with your colleagues who are interested in learning about AI-driven protein design.
+By releasing these slides, my goal is to provide access to high-quality information for deeper learning. If you are an instructor and have adopted this material for your classes, please let me know. I would love to learn how you improved the course and to know that more people have learned about protein science.
 
-## About me
+However, if you identify that someone has plagiarized this course in whole or in part **and is charging money for access**, I would appreciate being notified, as developing this material required significant time and effort, and plagiarism is a serious breach of professionalism and ethics.
 
-I am Miguel Angel Gonzalez Arias. I am a Mexican biologist, and I love proteins, microbes, and computing. For more details about me, my socials and other contact information, please visit:
-* [About me](https://miangoaren.github.io/talks/)
+# How to support this project
+
+If you found this course useful and would like to support it financially, you can donate via PayPal. Donations can be of any amount, or USD 12, 30, or 45 (suggestions based on the economic reality of students in Latin America). Click the image below to donate.
+
+[![Donate](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+
+If you do not have financial flexibility but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
+
+Finally, I would appreciate it if you shared this course with interested colleagues or reposted the official course announcement on social media (to be published once all videos are available):
+
+- X (Twitter)
+- Instagram
+- BlueSky
+- LinkedIn
+
+# About me
+
+My name is Miguel Angel González Arias. I am a Mexican biologist interested in proteins, microbes, and computation. For more details about me, my social networks, and other contact information, please visit the following page:
+
+* [About me](https://miangoar.github.io/talks/)
