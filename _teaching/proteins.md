@@ -10,7 +10,7 @@ location: "Mexico"
 
 I created this <a href="https://github.com/miangoar/AI-driven-protein-design">free course</a> consisting of 10 lectures to introduce you to AI-driven protein design.
 
-![webinar](/images/teaching/roadmap.jpg)
+![webinar](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/roadmap.jpg)
 
 # Contents
 - [General description](#general-description)
@@ -47,7 +47,9 @@ I want more people to learn how to design proteins using Artificial Intelligence
 
 # Course organization
 
-![webinar](/images/teaching/lectures.png)
+
+![lectures](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/lectures.jpg)
+
 
 The lectures are organized from 01 to 10 to facilitate conceptual understanding. For example, reviewing AlphaFold requires knowledge of structural biology and deep learning, which are covered in detail in their respective lectures. Below is a brief description of each lecture and its topics:
 
@@ -348,7 +350,11 @@ However, if you identify that someone has plagiarized this course in whole or in
 
 If you found this course useful and would like to support it financially, you can donate via PayPal. Donations can be of any amount, or USD 12, 30, or 45 (suggestions based on the economic reality of students in Latin America). Click the image below to donate.
 
-[![Donate](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+
+
+[![Donate](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+
+lectures
 
 If you do not have financial flexibility, but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
 
