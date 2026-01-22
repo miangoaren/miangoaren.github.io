@@ -49,95 +49,278 @@ This is intended to give you access to more information so you can explore the t
 
 The theoretical lectures are numbered from 01 to 10 to facilitate understanding of the topics. For example, to discuss AlphaFold, it is necessary to know concepts from structural biology and deep learning. Below is a brief description of the lectures and their topics:
 
-<ol>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis (i.e., Linux/Bash and Python).
+<ol>
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis.
     <ol type="a">
-      <li>How to get started in bioinformatics</li>
-      <li>Hardware</li>
-      <li>Software</li>
+      <li>Where does your journey begin?</li>
+      <li>Hardware
+        <ul>
+          <li>CPU</li>
+          <li>GPU</li>
+        </ul>
+      </li>
+      <li>Software
+        <ul>
+          <li>Linux/Bash and GitHub</li>
+          <li>Python</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
   <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: what AI is and its subfields, the current capabilities of algorithms, and how a model is trained.
     <ol type="a">
-      <li>The current state of AI</li>
-      <li>How AI learns</li>
-      <li>How to train a model</li>
+      <li>Current state of AI</li>
+      <li>How AI learns
+        <ul>
+          <li>Patterns</li>
+          <li>Machine learning operations (MLOps)</li>
+          <li>Learning paradigms</li>
+        </ul>
+      </li>
+      <li>How to train a model
+        <ul>
+          <li>Data processing</li>
+          <li>How to choose a model</li>
+          <li>Training process</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
   <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: how neural networks work, the different types of neural networks, and the software used to work with them.
     <ol type="a">
-      <li>Neural networks</li>
-      <li>Deep learning libraries</li>
+      <li>Neural networks
+        <ul>
+          <li>Neurons</li>
+          <li>Deep learning</li>
+          <li>Loss functions</li>
+          <li>Backpropagation</li>
+          <li>Optimizers</li>
+          <li>Architectures</li>
+          <li>Explainability (why) and Interpretability (how)</li>
+        </ul>
+      </li>
+      <li>Deep learning frameworks</li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers and language models</a></strong>: how Transformers and modern language models work, as well as the software used to work with them.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers and language models</a></strong>: how Transformers and modern language models work.
     <ol type="a">
       <li>Language models</li>
-      <li>Transformers</li>
-      <li>Performance and generalization</li>
-      <li>How to work with language models</li>
+      <li>Transformers
+        <ul>
+          <li>Original architecture</li>
+          <li>BERT and GPT architectures</li>
+          <li>Scaling laws</li>
+          <li>Pre-training and post-training</li>
+          <li>Reinforcement learning</li>
+        </ul>
+      </li>
+      <li>Performance and generalization
+        <ul>
+          <li>Benchmark saturation</li>
+          <li>Hype</li>
+        </ul>
+      </li>
+      <li>How to work with LLMs
+        <ul>
+          <li>Optimization techniques (for GPU-poors like us)</li>
+          <li>Hugging Face and Software 2.0</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein structure</a></strong>: principles of structural biology and the organization of protein sequences and structures.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein structure</a></strong>: principles of structural biology and organization.
     <ol type="a">
-      <li>Structural organization</li>
-      <li>Classifications</li>
-      <li>The shape of the protein universe</li>
+      <li>Structural organization
+        <ul>
+          <li>Amino acids</li>
+          <li>Secondary and tertiary structure</li>
+          <li>Experimental workflow for structure determination</li>
+          <li>Structure Viewers</li>
+        </ul>
+      </li>
+      <li>Classifications
+        <ul>
+          <li>Folds and domains</li>
+          <li>First classification schemes</li>
+          <li>Similarity metrics</li>
+          <li>Sequence and structural divergence</li>
+          <li>Current classifications schemes</li>
+        </ul>
+      </li>
+      <li>The shape of the protein universe
+        <ul>
+          <li>Uneven distribution</li>
+          <li>Complex homologous relationships</li>
+          <li>Switch folds</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein function</a></strong>: how proteins adopt their structure, how catalysis and ligand binding occur, and how function is regulated.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein function</a></strong>: how proteins adopt their structure and how function is regulated.
     <ol type="a">
-      <li>Folding</li>
-      <li>Function</li>
-      <li>Functional regulation</li>
+      <li>Protein folding
+        <ul>
+          <li>Cellular environment</li>
+          <li>Thermodynamics and conformational entropy</li>
+        </ul>
+      </li>
+      <li>Protein function
+        <ul>
+          <li>Diffusion</li>
+          <li>Molecular dynamics and energy functions</li>
+          <li>Enzymes</li>
+          <li>Functional annotation</li>
+        </ul>
+      </li>
+      <li>Functional regulation
+        <ul>
+          <li>Allosterism</li>
+          <li>Transcriptional regulation</li>
+          <li>Post translational modifications</li>
+          <li>Proteostasis and host physiology</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein evolution</a></strong>: how proteins are thought to have originated and diversified from simpler peptides, and how molecular evolution operates.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein evolution</a></strong>: origin and diversification from simpler peptides.
     <ol type="a">
-      <li>Levels of biological organization</li>
-      <li>Biological evolution</li>
-      <li>The sequence space</li>
-      <li>Epistasis</li>
+      <li>Levels of biological organization
+        <ul>
+          <li>Evolution across spatio-temporal scales</li>
+          <li>Chemical evolution</li>
+        </ul>
+      </li>
+      <li>Biological evolution
+        <ul>
+          <li>RNA world hypothesis and ribosome evolution</li>
+          <li>Ancestral proteins</li>
+          <li>Protein diversification</li>
+        </ul>
+      </li>
+      <li>The sequence space
+        <ul>
+          <li>Mutations</li>
+          <li>Robustness, evolvability and promiscuity</li>
+          <li>Evolution of protein function</li>
+        </ul>
+      </li>
+      <li>Epistasis: How interactions shape the evolution
+        <ul>
+          <li>Residue-residue and protein-protein interactions</li>
+          <li>Randomness of mutations</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: overview of the AlphaFold2 and AlphaFold3 architectures, their strengths and weaknesses, and their impact on science.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: overview of AF2 and AF3 architectures and impact.
     <ol type="a">
+      <li>The impact of AlphaFold
+        <ul>
+          <li>AlphaFoldmania</li>
+          <li>Protein structure prediction before AlphaFold</li>
+        </ul>
+      </li>
       <li>AlphaFold</li>
-      <li>AlphaFold2</li>
-      <li>AlphaFold3</li>
+      <li>AlphaFold2
+        <ul>
+          <li>Protein language models</li>
+          <li>Architecture</li>
+          <li>Post-AlphaFold2 era</li>
+        </ul>
+      </li>
+      <li>AlphaFold3
+        <ul>
+          <li>Diffusion models for macromolecular modeling</li>
+          <li>Architecture</li>
+          <li>Post-AlphaFold3 era</li>
+        </ul>
+      </li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AI-driven protein design</a></strong>: motivations for designing proteins, characteristics of designed proteins, and how AI has modernized classical methods and enabled new approaches.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AI-driven protein design</a></strong>: motivations and modern AI methods.
     <ol type="a">
-      <li>Protein design</li>
-      <li>Rational design</li>
-      <li>Evolutionary design</li>
-      <li>Representation learning</li>
-      <li>Generative AI</li>
+      <li>Protein design
+        <ul>
+          <li>AI in the biotech market</li>
+          <li>Advances from classical methods to AI-driven methods</li>
+          <li>Basic considerations to increase the success of a design</li>
+        </ul>
+      </li>
+      <li>Rational design
+        <ul>
+          <li>Classic experimental and bioinformatic approaches</li>
+          <li>Macromolecular modeling and recombineering</li>
+        </ul>
+      </li>
+      <li>Evolutionary design
+        <ul>
+          <li>Directed evolution, ancestral sequence reconstruction and consensus design</li>
+        </ul>
+      </li>
+      <li>Representation learning
+        <ul>
+          <li>(Macro)Molecular representations</li>
+          <li>Protein language models and ESMFold</li>
+          <li>Explainability and interpretability of protein language models</li>
+          <li>Scaling laws and multimodality in protein language models</li>
+        </ul>
+      </li>
+      <li>Generative AI
+        <ul>
+          <li>Integration of multimodal data</li>
+          <li>Sequence generation</li>
+          <li>Generalization and fitness prediction with protein language models</li>
+          <li>Inverse folding and ProteinMPNN</li>
+          <li>Structure generation with diffusion models</li>
+          <li>Model selection and computational scoring of candidates</li>
+          <li>Model generalization and synthetic data</li>
+        </ul>
+      </li>
+      <li>Summary</li>
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Data and biases</a></strong>: relevant databases, how to process data for model training, and examples of inherent biases present in datasets.
+  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Data and biases</a></strong>: relevant databases and data processing.
     <ol type="a">
-      <li>Big data in omics</li>
-      <li>Datasets</li>
-      <li>Data processing</li>
-      <li>Generalization in biology</li>
-      <li>Data biases</li>
+      <li>Big data is Omics
+        <ul>
+          <li>Properties of a good dataset</li>
+        </ul>
+      </li>
+      <li>Main datasets
+        <ul>
+          <li>PDB</li>
+          <li>UniProt</li>
+          <li>NCBI datasets</li>
+          <li>Other interesting datasets</li>
+        </ul>
+      </li>
+      <li>Data processing
+        <ul>
+          <li>Data cleaning in biology</li>
+          <li>Basic tools for biological data manipulation</li>
+          <li>Data splitting</li>
+        </ul>
+      </li>
+      <li>Generalization in (protein) biology
+        <ul>
+          <li>Data leakage and other inherent issues</li>
+        </ul>
+      </li>
+      <li>Biases in the data</li>
+      <li>A roadmap for AI-driven protein design</li>
     </ol>
   </li>
-
 </ol>
-
 
 ## How to support this project
 
