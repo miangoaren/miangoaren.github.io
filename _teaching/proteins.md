@@ -47,8 +47,7 @@ I want more people to learn how to design proteins using Artificial Intelligence
 
 # Course organization
 
-
-![lectures](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/lectures.jpg)
+![lectures](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/lectures.png)
 
 
 The lectures are organized from 01 to 10 to facilitate conceptual understanding. For example, reviewing AlphaFold requires knowledge of structural biology and deep learning, which are covered in detail in their respective lectures. Below is a brief description of each lecture and its topics:
@@ -350,9 +349,7 @@ However, if you identify that someone has plagiarized this course in whole or in
 
 If you found this course useful and would like to support it financially, you can donate via PayPal. Donations can be of any amount, or USD 12, 30, or 45 (suggestions based on the economic reality of students in Latin America). Click the image below to donate.
 
-
-
-[![Donate](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
+[![paypal](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
 lectures
 
