@@ -351,19 +351,17 @@ If you found this course useful and would like to support it financially, you ca
 
 [![paypal](https://github.com/miangoar/AI-driven-protein-design/raw/main/img/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-lectures
-
 If you do not have financial flexibility, but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
 
 Finally, I would appreciate it if you shared this course with interested colleagues or reposted the official course announcement on social media (to be published once all videos are available):
 
-- [(X)Twitter]()
-- [Instagram]()
-- [BlueSky]()
-- [LinkedIn]()
+- [(X)Twitter](https://x.com/miangoar)
+- [Instagram](https://www.instagram.com/miangoar/#)
+- [BlueSky](https://bsky.app/profile/miangoar.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/miguel-angel-gonzalez-arias-61b04b2ba/)
 
 # About me
 
 I'm Miguel Angel González Arias. I'm a Mexican biologist interested in proteins, microbes, and computation. For more details about me, my social networks, and other contact information, please visit the following page:
 
-* [About me](https://miangoar.github.io/talks/)
+* [About me](https://miangoaren.github.io/talks/)
