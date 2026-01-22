@@ -52,7 +52,7 @@ I want more people to learn how to design proteins using Artificial Intelligence
 The lectures are organized from 01 to 10 to facilitate conceptual understanding. For example, reviewing AlphaFold requires knowledge of structural biology and deep learning, which are covered in detail in their respective lectures. Below is a brief description of each lecture and its topics:
 
 <ol>
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Basic computing concepts</a></strong>: how CPUs and GPUs work, as well as the essential software for data analysis.
     <ol type="a">
       <li>Where does your journey begin?</li>
       <li>Hardware
@@ -70,7 +70,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Machine learning</a></strong>: what AI is and its subfields, the current capabilities of algorithms, and how a model is trained.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Machine learning</a></strong>: what AI is and its subfields, the current capabilities of algorithms, and how a model is trained.
     <ol type="a">
       <li>Current state of AI</li>
       <li>How AI learns
@@ -90,7 +90,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Deep learning</a></strong>: how neural networks work, the different types of neural networks, and the software used to work with them.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Deep learning</a></strong>: how neural networks work, the different types of neural networks, and the software used to work with them.
     <ol type="a">
       <li>Neural networks
         <ul>
@@ -107,7 +107,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Transformers and language models</a></strong>: how Transformers and modern language models work.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Transformers and language models</a></strong>: how Transformers and modern language models work.
     <ol type="a">
       <li>Language models</li>
       <li>Transformers
@@ -134,7 +134,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein structure</a></strong>: principles of structural biology and organization.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Protein structure</a></strong>: principles of structural biology and organization.
     <ol type="a">
       <li>Structural organization
         <ul>
@@ -163,7 +163,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein function</a></strong>: how proteins adopt their structure and how function is regulated.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Protein function</a></strong>: how proteins adopt their structure and how function is regulated.
     <ol type="a">
       <li>Protein folding
         <ul>
@@ -190,7 +190,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Protein evolution</a></strong>: origin and diversification from simpler peptides.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Protein evolution</a></strong>: origin and diversification from simpler peptides.
     <ol type="a">
       <li>Levels of biological organization
         <ul>
@@ -221,7 +221,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AlphaFold</a></strong>: overview of AF2 and AF3 architectures and impact.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">AlphaFold</a></strong>: overview of AF2 and AF3 architectures and impact.
     <ol type="a">
       <li>The impact of AlphaFold
         <ul>
@@ -247,7 +247,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">AI-driven protein design</a></strong>: motivations and modern AI methods.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">AI-driven protein design</a></strong>: motivations and modern AI methods.
     <ol type="a">
       <li>Protein design
         <ul>
@@ -290,7 +290,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
     </ol>
   </li>
 
-  <li><strong><a href="https://www.youtube.com/watch?v=TU_LINK_AQUI">Data and biases</a></strong>: relevant databases and data processing.
+  <li><strong><a href="https://www.youtube.com/watch?v=XXXX">Data and biases</a></strong>: relevant databases and data processing.
     <ol type="a">
       <li>Big data is Omics
         <ul>
@@ -323,10 +323,9 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
   </li>
 </ol>
 
-
 # Access to the slides
 
-This course includes more than 800 slides with image sources, citations, and recommended resources for deeper study in the notes section. I recommend reviewing the slides using PowerPoint. You can download the slides from Zenodo and Google Drive:
+This course includes +800 slides with image sources, citations, and recommended resources for deeper study in the notes section. I recommend reviewing the slides using PowerPoint. You can download the slides from Zenodo and Google Drive (to be published once all videos are available):
 
 | Topic | Slides | YouTube |
 |------|--------|---------|
@@ -341,9 +340,9 @@ This course includes more than 800 slides with image sources, citations, and rec
 | AI-based protein design | Drive, Zenodo | Video |
 | Data and bias | Drive, Zenodo | Video |
 
-By releasing these slides, my goal is to provide access to high-quality information for deeper learning. If you are an instructor and have adopted this material for your classes, please let me know. I would love to learn how you improved the course and to know that more people have learned about protein science.
+By releasing these slides, my goal is to provide access to information for deeper learning. If you are a teacher and have adopted this material for your lectures, please let me know. I would love to learn how you improved the course and to know that more people have learned about protein science.
 
-However, if you identify that someone has plagiarized this course in whole or in part **and is charging money for access**, I would appreciate being notified, as developing this material required significant time and effort, and plagiarism is a serious breach of professionalism and ethics.
+However, if you identify that someone has plagiarized this course in whole or in part **and is charging money for access**, I would appreciate being notified, as developing this material required a lot of time and effort, and plagiarism is a serious breach of professionalism and ethics.
 
 # How to support this project
 
@@ -351,17 +350,17 @@ If you found this course useful and would like to support it financially, you ca
 
 [![Donate](/images/teaching/paypal.jpg)](https://www.paypal.com/donate/?hosted_button_id=AG42EZTZW9AJN)
 
-If you do not have financial flexibility but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
+If you do not have financial flexibility, but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
 
 Finally, I would appreciate it if you shared this course with interested colleagues or reposted the official course announcement on social media (to be published once all videos are available):
 
-- X (Twitter)
-- Instagram
-- BlueSky
-- LinkedIn
+- [(X)Twitter]()
+- [Instagram]()
+- [BlueSky]()
+- [LinkedIn]()
 
 # About me
 
-My name is Miguel Angel González Arias. I am a Mexican biologist interested in proteins, microbes, and computation. For more details about me, my social networks, and other contact information, please visit the following page:
+I'm Miguel Angel González Arias. I'm a Mexican biologist interested in proteins, microbes, and computation. For more details about me, my social networks, and other contact information, please visit the following page:
 
 * [About me](https://miangoar.github.io/talks/)
