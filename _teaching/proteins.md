@@ -36,11 +36,10 @@ I want more people to learn how to design proteins using Artificial Intelligence
   <li><a href="https://github.com/miangoar/AI-driven-protein-design">A GitHub repository</a> with the following resources:
     <ol type="a">
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Tools</a>: libraries organized into 25 categories</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Learning resources</a>: useful courses and publications organized into eight categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Learning resources</a>: courses, tutorials and useful publications organized into nine categories</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Databases</a>: resources to download genomic and protein data organized into 12 categories</li>
       <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video">Lectures</a>: links to each lecture and to download the slides</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tutorials">Tutorials</a>: tutorials to learn how to process and analyze data in protein science</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/selected_papers">Selected papers</a>: recommended scientific papers</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/youtube">YouTube</a>: Recommended channels and videos to learn about proteins, mathematics, and data science</li>
     </ol>
   </li>
 </ol>
