@@ -35,11 +35,11 @@ I want more people to learn how to design proteins using Artificial Intelligence
   <li><a href="https://www.youtube.com/@miangoar_bio">The 10 lectures on YouTube</a></li>
   <li><a href="https://github.com/miangoar/AI-driven-protein-design">A GitHub repository</a> with the following resources:
     <ol type="a">
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools">Tools</a>: libraries organized into 25 categories</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources">Learning resources</a>: courses, tutorials and useful publications organized into nine categories</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases">Databases</a>: resources to download genomic and protein data organized into 12 categories</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video">Lectures</a>: links to each lecture and to download the slides</li>
-      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/youtube">YouTube</a>: Recommended channels and videos to learn about proteins, mathematics, and data science</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/tools/readme.md">Tools</a>: libraries organized into 25 categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/learning_resources/readme.md">Learning resources</a>: courses, tutorials and useful publications organized into nine categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/databases/readme.md">Databases</a>: resources to download genomic and protein data organized into 12 categories</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/video/readme.md">Lectures</a>: links to each lecture and to download the slides</li>
+      <li><a href="https://github.com/miangoar/AI-driven-protein-design/tree/main/youtube/readme.md">YouTube</a>: Recommended channels and videos to learn about proteins, mathematics, and data science</li>
     </ol>
   </li>
 </ol>
