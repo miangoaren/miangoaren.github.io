@@ -19,7 +19,7 @@ I created this <a href="https://github.com/miangoar/AI-driven-protein-design">fr
 - [How to support this project](#how-to-support-this-project)
 - [About me](#about-me)
 
-Note: there is a version of this page in [Spanish](https://miangoar.github.io/teaching/proteins).
+Note: there is a version of this page in [Spanish](https://miangoar.github.io/teaching/proteins) / Nota: aquí hay una [versión en Español](https://miangoar.github.io/teaching/proteins) de esta página.
 
 # General description
 
@@ -269,7 +269,7 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
       </li>
       <li>Representation learning
         <ul>
-          <li>(Macro)Molecular representations</li>
+          <li>(Macro)Molecular representations and Foldseek</li>
           <li>Protein language models and ESMFold</li>
           <li>Explainability and interpretability of protein language models</li>
           <li>Scaling laws and multimodality in protein language models</li>
@@ -325,20 +325,22 @@ The lectures are organized from 01 to 10 to facilitate conceptual understanding.
 
 # Access to the slides
 
-This course includes +800 slides with image sources, citations, and recommended resources for deeper study in the notes section. I recommend reviewing the slides using PowerPoint. You can download the slides from Zenodo and Google Drive (to be published once all videos are available):
+This course includes +800 slides with image sources, citations, and recommended resources for deeper study in the notes section. I recommend reviewing the slides using PowerPoint. You can download the slides from [Zenodo](https://zenodo.org/records/18498885) (direct download links) and [Google Drive](https://drive.google.com/drive/folders/1V-XdaA2eqY5857gxV4LpSGIX3z8JP1Gq?usp=sharing):
 
-| Topic | Slides | YouTube |
-|------|--------|---------|
-| Basic computing concepts | Drive, Zenodo | Video |
-| Machine learning | Drive, Zenodo | Video |
-| Deep learning | Drive, Zenodo | Video |
-| Transformers and language models | Drive, Zenodo | Video |
-| Protein structure | Drive, Zenodo | Video |
-| Protein function | Drive, Zenodo | Video |
-| Protein evolution | Drive, Zenodo | Video |
-| AlphaFold | Drive, Zenodo | Video |
-| AI-based protein design | Drive, Zenodo | Video |
-| Data and bias | Drive, Zenodo | Video |
+
+| Tema | Diapositivas | YouTube |
+|-----|------------------|-----------------|
+|  Basic computing concepts | [Drive](https://drive.google.com/file/d/1uDweEDt8-dIaQ1_IFNSNIHehblBNBSGW/view), [Zenodo](https://zenodo.org/records/18498885/files/01_Basic_computing_concepts.pptx) | [Video](https://youtu.be/uMkZzKbnoJI) |
+| Machine learning | [Drive](https://drive.google.com/file/d/1i-JoCQHsph0z692FAuigGVznTo4oybO7/view), [Zenodo](https://zenodo.org/records/18498885/files/02_Machine_learning.pptx) | [Video](https://youtu.be/Xx80O85-5rI) |
+| Deep learning | [Drive](https://drive.google.com/file/d/1caztPrQ8ve1FXoSNyg_HUzP8xrPOGUgb/view), [Zenodo](https://zenodo.org/records/18498885/files/03_Deep_learning.pptx) | [Video](https://youtu.be/pAgL7NsCUMU) |
+| Transformers and language models | [Drive](https://drive.google.com/file/d/1y2VjOjBKCurUYDojCNFtDd9nIVXGhia_/view), [Zenodo](https://zenodo.org/records/18498885/files/04_Transformer_and_LLMs.pptx) | [Video](https://youtu.be/vUpb6O6T2yQ) |
+| Protein structure | [Drive](https://drive.google.com/file/d/1F99Vb2uh7QAgCvsaEIAt7BbuP5yyy2Yb/view), [Zenodo](https://zenodo.org/records/18498885/files/05_Protein_structure.pptx) | [Video](https://youtu.be/gE6qXwpBP_s) |
+| Protein function | [Drive](https://drive.google.com/file/d/1TpPji-In5Ubbih4eUSljn70jiv07twtJ/view), [Zenodo](https://zenodo.org/records/18498885/files/06_Protein_function.pptx) | [Video](https://youtu.be/cZs8XtVYa5A) |
+| Protein evolution | [Drive](https://drive.google.com/file/d/1BfQdzv9ysn6_7CUZyVqsW5YGY0y21Mxb/view), [Zenodo](https://zenodo.org/records/18498885/files/07_Protein_evolution.pptx) | [Video](https://youtu.be/qaypRS8SX5M) |
+| AlphaFold | [Drive](https://drive.google.com/file/d/1i4QEvAMAoUPGVoHxlHa3zwubbm40dcZk/view), [Zenodo](https://zenodo.org/records/18498885/files/08_Alphafold.pptx) | [Video](https://youtu.be/_jDRr5BcTaY) |
+| AI-based protein design | [Drive](https://drive.google.com/file/d/1EPLjI6JhoPQ9tO9VvIACS0m1ZJWw6zwz/view), [Zenodo](https://zenodo.org/records/18498885/files/09_Protein_design.pptx) | [Video](https://youtu.be/wKUYtAt87d4This) |
+| Data and bias | [Drive](http://drive.google.com/file/d/1jpEwDBncJCRviG_DaWs2EpzCL_1BfB9t/view ), [Zenodo](https://zenodo.org/records/18498885/files/10_Data_and_biases.pptx) | [Video](https://youtu.be/SKpHaHgvCKE) |
+
 
 By releasing these slides, my goal is to provide access to information for deeper learning. If you are a teacher and have adopted this material for your lectures, please let me know. I would love to learn how you improved the course and to know that more people have learned about protein science.
 
@@ -352,7 +354,7 @@ If you found this course useful and would like to support it financially, you ca
 
 If you do not have financial flexibility, but would like to express your gratitude, you can send me your comments by email: gamamiguelangel@gmail.com
 
-Finally, I would appreciate it if you shared this course with interested colleagues or reposted the official course announcement on social media (to be published once all videos are available):
+Finally, I would appreciate it if you shared this course with interested colleagues or reposted the official course announcement on social media:
 
 - [(X)Twitter](https://x.com/miangoar)
 - [Instagram](https://www.instagram.com/miangoar/#)
